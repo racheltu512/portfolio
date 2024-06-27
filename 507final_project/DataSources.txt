@@ -1,0 +1,12 @@
+arXiv API
+
+Origin: The data is obtained from the arXiv API (https://arxiv.org/help/api/index) using a Search() function.
+
+Format: The data is then converted to JSON format so that only one API call needs to be made.
+
+Access: The data is accessed using the arxiv Python package, which sends requests to the arXiv API and parses the response. Caching is not used.
+
+Summary: The data includes information about academic articles, such as the authors, title, summary, and category.
+I then use the API data to create JSON files that hold dictionaries of author name, count of published papers, and a list of their co-authors.
+The local data is stored in JSON files in the author_data directory.
+Each file corresponds to a category of articles and contains information about a sample of articles from that category.
