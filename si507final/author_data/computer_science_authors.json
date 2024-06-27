@@ -1,0 +1,5045 @@
+{
+    "Assaf Kfoury": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Jeannette M. Wing": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yangyong Zhu": {
+        "co_authors": [
+            "Yun Xiong"
+        ],
+        "num_pubs": 1
+    },
+    "Yun Xiong": {
+        "co_authors": [
+            "Yangyong Zhu"
+        ],
+        "num_pubs": 1
+    },
+    "Skye Kychenthal": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Jan Bouda": {
+        "co_authors": [
+            "Luk\u00e1\u0161 Hol\u00edk",
+            "Jan Kofro\u0148",
+            "Jan Strej\u010dek",
+            "Adam Rambousek"
+        ],
+        "num_pubs": 1
+    },
+    "Luk\u00e1\u0161 Hol\u00edk": {
+        "co_authors": [
+            "Jan Bouda",
+            "Jan Kofro\u0148",
+            "Jan Strej\u010dek",
+            "Adam Rambousek"
+        ],
+        "num_pubs": 1
+    },
+    "Jan Kofro\u0148": {
+        "co_authors": [
+            "Jan Bouda",
+            "Luk\u00e1\u0161 Hol\u00edk",
+            "Jan Strej\u010dek",
+            "Adam Rambousek"
+        ],
+        "num_pubs": 1
+    },
+    "Jan Strej\u010dek": {
+        "co_authors": [
+            "Jan Bouda",
+            "Luk\u00e1\u0161 Hol\u00edk",
+            "Jan Kofro\u0148",
+            "Adam Rambousek"
+        ],
+        "num_pubs": 1
+    },
+    "Adam Rambousek": {
+        "co_authors": [
+            "Jan Bouda",
+            "Luk\u00e1\u0161 Hol\u00edk",
+            "Jan Kofro\u0148",
+            "Jan Strej\u010dek"
+        ],
+        "num_pubs": 1
+    },
+    "Wilhelm Hasselbring": {
+        "co_authors": [
+            "Leslie Carr",
+            "Simon Hettrick",
+            "Heather Packer",
+            "Thanassis Tiropanis"
+        ],
+        "num_pubs": 1
+    },
+    "Leslie Carr": {
+        "co_authors": [
+            "Wilhelm Hasselbring",
+            "Simon Hettrick",
+            "Heather Packer",
+            "Thanassis Tiropanis"
+        ],
+        "num_pubs": 1
+    },
+    "Simon Hettrick": {
+        "co_authors": [
+            "Wilhelm Hasselbring",
+            "Leslie Carr",
+            "Heather Packer",
+            "Thanassis Tiropanis"
+        ],
+        "num_pubs": 1
+    },
+    "Heather Packer": {
+        "co_authors": [
+            "Wilhelm Hasselbring",
+            "Leslie Carr",
+            "Simon Hettrick",
+            "Thanassis Tiropanis"
+        ],
+        "num_pubs": 1
+    },
+    "Thanassis Tiropanis": {
+        "co_authors": [
+            "Wilhelm Hasselbring",
+            "Leslie Carr",
+            "Simon Hettrick",
+            "Heather Packer"
+        ],
+        "num_pubs": 1
+    },
+    "Victor Khomenko": {
+        "co_authors": [
+            "Roland Meyer",
+            "Reiner H\u00fcchting"
+        ],
+        "num_pubs": 1
+    },
+    "Roland Meyer": {
+        "co_authors": [
+            "Victor Khomenko",
+            "Reiner H\u00fcchting"
+        ],
+        "num_pubs": 1
+    },
+    "Reiner H\u00fcchting": {
+        "co_authors": [
+            "Victor Khomenko",
+            "Roland Meyer"
+        ],
+        "num_pubs": 1
+    },
+    "George Papagiannakis": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Mahyuddin K. M. Nasution": {
+        "co_authors": [
+            "Rahmat Hidayat",
+            "Rahmad Syah"
+        ],
+        "num_pubs": 1
+    },
+    "Rahmat Hidayat": {
+        "co_authors": [
+            "Mahyuddin K. M. Nasution",
+            "Rahmad Syah"
+        ],
+        "num_pubs": 1
+    },
+    "Rahmad Syah": {
+        "co_authors": [
+            "Mahyuddin K. M. Nasution",
+            "Rahmat Hidayat"
+        ],
+        "num_pubs": 1
+    },
+    "Colin Stirling": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Thierry Poibeau": {
+        "co_authors": [
+            "Shravan Vasishth"
+        ],
+        "num_pubs": 1
+    },
+    "Shravan Vasishth": {
+        "co_authors": [
+            "Thierry Poibeau"
+        ],
+        "num_pubs": 1
+    },
+    "Riccardo Pucella": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Manh Cuong Pham": {
+        "co_authors": [
+            "Ralf Klamma",
+            "Matthias Jarke"
+        ],
+        "num_pubs": 1
+    },
+    "Ralf Klamma": {
+        "co_authors": [
+            "Manh Cuong Pham",
+            "Matthias Jarke"
+        ],
+        "num_pubs": 1
+    },
+    "Matthias Jarke": {
+        "co_authors": [
+            "Manh Cuong Pham",
+            "Ralf Klamma"
+        ],
+        "num_pubs": 1
+    },
+    "Zvonko Iljazovic": {
+        "co_authors": [
+            "Konrad Burnik"
+        ],
+        "num_pubs": 3
+    },
+    "Noson S. Yanofsky": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Nathan Wiebe": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Philipp Jordan": {
+        "co_authors": [
+            "Paula Alexandra Silva"
+        ],
+        "num_pubs": 2
+    },
+    "Vladislav Dorofeev": {
+        "co_authors": [
+            "Petro Trokhimchuk"
+        ],
+        "num_pubs": 1
+    },
+    "Petro Trokhimchuk": {
+        "co_authors": [
+            "Vladislav Dorofeev"
+        ],
+        "num_pubs": 1
+    },
+    "Rogerio Rossi": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Sherif G. Aly": {
+        "co_authors": [
+            "Haidar Harmanani",
+            "Rajendra K. Raj",
+            "Sanaa Sharafeddine"
+        ],
+        "num_pubs": 1
+    },
+    "Haidar Harmanani": {
+        "co_authors": [
+            "Sherif G. Aly",
+            "Rajendra K. Raj",
+            "Sanaa Sharafeddine"
+        ],
+        "num_pubs": 1
+    },
+    "Rajendra K. Raj": {
+        "co_authors": [
+            "Sherif G. Aly",
+            "Haidar Harmanani",
+            "Sanaa Sharafeddine"
+        ],
+        "num_pubs": 1
+    },
+    "Sanaa Sharafeddine": {
+        "co_authors": [
+            "Sherif G. Aly",
+            "Haidar Harmanani",
+            "Rajendra K. Raj"
+        ],
+        "num_pubs": 1
+    },
+    "Rene David": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Nachum Dershowitz": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Glynn Winskel": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Michael Soltys": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Solomon Feferman": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Elina Kalnina": {
+        "co_authors": [
+            "Audris Kalnins",
+            "Agris Sostaks",
+            "Janis Iraids",
+            "Edgars Celms"
+        ],
+        "num_pubs": 1
+    },
+    "Audris Kalnins": {
+        "co_authors": [
+            "Elina Kalnina",
+            "Agris Sostaks",
+            "Janis Iraids",
+            "Edgars Celms"
+        ],
+        "num_pubs": 1
+    },
+    "Agris Sostaks": {
+        "co_authors": [
+            "Elina Kalnina",
+            "Audris Kalnins",
+            "Janis Iraids",
+            "Edgars Celms"
+        ],
+        "num_pubs": 1
+    },
+    "Janis Iraids": {
+        "co_authors": [
+            "Elina Kalnina",
+            "Audris Kalnins",
+            "Agris Sostaks",
+            "Edgars Celms"
+        ],
+        "num_pubs": 1
+    },
+    "Edgars Celms": {
+        "co_authors": [
+            "Elina Kalnina",
+            "Audris Kalnins",
+            "Agris Sostaks",
+            "Janis Iraids"
+        ],
+        "num_pubs": 1
+    },
+    "Marcin Niemiec": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yuri Gordienko": {
+        "co_authors": [
+            "Elena Zasimchuk",
+            "Lev Bekenev",
+            "Olexander Gatsenko",
+            "Valentin Tatarenko",
+            "Olexandra Baskova",
+            "Lev Bekenov",
+            "Sergii Stirenko",
+            "Olexandr Gatsenko"
+        ],
+        "num_pubs": 2
+    },
+    "Lev Bekenov": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Olexandr Gatsenko",
+            "Elena Zasimchuk",
+            "Valentin Tatarenko"
+        ],
+        "num_pubs": 1
+    },
+    "Olexandr Gatsenko": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Lev Bekenov",
+            "Elena Zasimchuk",
+            "Valentin Tatarenko"
+        ],
+        "num_pubs": 1
+    },
+    "Elena Zasimchuk": {
+        "co_authors": [
+            "Lev Bekenev",
+            "Olexander Gatsenko",
+            "Valentin Tatarenko",
+            "Olexandra Baskova",
+            "Lev Bekenov",
+            "Sergii Stirenko",
+            "Yuri Gordienko",
+            "Olexandr Gatsenko"
+        ],
+        "num_pubs": 2
+    },
+    "Valentin Tatarenko": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Lev Bekenov",
+            "Olexandr Gatsenko",
+            "Elena Zasimchuk"
+        ],
+        "num_pubs": 1
+    },
+    "Ivan Srba": {
+        "co_authors": [
+            "Gabriele Lenzini",
+            "Matus Pikuliak",
+            "Samuel Pecar"
+        ],
+        "num_pubs": 1
+    },
+    "Gabriele Lenzini": {
+        "co_authors": [
+            "Ivan Srba",
+            "Matus Pikuliak",
+            "Samuel Pecar"
+        ],
+        "num_pubs": 1
+    },
+    "Matus Pikuliak": {
+        "co_authors": [
+            "Ivan Srba",
+            "Gabriele Lenzini",
+            "Samuel Pecar"
+        ],
+        "num_pubs": 1
+    },
+    "Samuel Pecar": {
+        "co_authors": [
+            "Ivan Srba",
+            "Gabriele Lenzini",
+            "Matus Pikuliak"
+        ],
+        "num_pubs": 1
+    },
+    "David R. Wright": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Juan M. Dur\u00e1n": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "D. K. Ningtyas": {
+        "co_authors": [
+            "A. B. Mutiara"
+        ],
+        "num_pubs": 1
+    },
+    "A. B. Mutiara": {
+        "co_authors": [
+            "D. K. Ningtyas"
+        ],
+        "num_pubs": 1
+    },
+    "Balaji Akula": {
+        "co_authors": [
+            "James Cusick"
+        ],
+        "num_pubs": 1
+    },
+    "James Cusick": {
+        "co_authors": [
+            "Balaji Akula"
+        ],
+        "num_pubs": 1
+    },
+    "Michael W. Mahoney": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Timothy T. Lenczycki": {
+        "co_authors": [
+            "Kelly Suto",
+            "Christina Williams",
+            "Michelle Mills Strout"
+        ],
+        "num_pubs": 1
+    },
+    "Kelly Suto": {
+        "co_authors": [
+            "Timothy T. Lenczycki",
+            "Christina Williams",
+            "Michelle Mills Strout"
+        ],
+        "num_pubs": 1
+    },
+    "Christina Williams": {
+        "co_authors": [
+            "Timothy T. Lenczycki",
+            "Kelly Suto",
+            "Michelle Mills Strout"
+        ],
+        "num_pubs": 1
+    },
+    "Michelle Mills Strout": {
+        "co_authors": [
+            "Timothy T. Lenczycki",
+            "Kelly Suto",
+            "Christina Williams"
+        ],
+        "num_pubs": 1
+    },
+    "Jan A. Bergstra": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Anders K. H. Bengtsson": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Baihan Lin": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Wesley Burr": {
+        "co_authors": [
+            "Fanny Chevalier",
+            "Christopher Collins",
+            "Alison L Gibbs",
+            "Raymond Ng",
+            "Chris Wild"
+        ],
+        "num_pubs": 1
+    },
+    "Fanny Chevalier": {
+        "co_authors": [
+            "Wesley Burr",
+            "Christopher Collins",
+            "Alison L Gibbs",
+            "Raymond Ng",
+            "Chris Wild"
+        ],
+        "num_pubs": 1
+    },
+    "Christopher Collins": {
+        "co_authors": [
+            "Wesley Burr",
+            "Fanny Chevalier",
+            "Alison L Gibbs",
+            "Raymond Ng",
+            "Chris Wild"
+        ],
+        "num_pubs": 1
+    },
+    "Alison L Gibbs": {
+        "co_authors": [
+            "Wesley Burr",
+            "Fanny Chevalier",
+            "Christopher Collins",
+            "Raymond Ng",
+            "Chris Wild"
+        ],
+        "num_pubs": 1
+    },
+    "Raymond Ng": {
+        "co_authors": [
+            "Wesley Burr",
+            "Fanny Chevalier",
+            "Christopher Collins",
+            "Alison L Gibbs",
+            "Chris Wild"
+        ],
+        "num_pubs": 1
+    },
+    "Chris Wild": {
+        "co_authors": [
+            "Wesley Burr",
+            "Fanny Chevalier",
+            "Christopher Collins",
+            "Alison L Gibbs",
+            "Raymond Ng"
+        ],
+        "num_pubs": 1
+    },
+    "Bjorge Meulemeester": {
+        "co_authors": [
+            "David Martens"
+        ],
+        "num_pubs": 1
+    },
+    "David Martens": {
+        "co_authors": [
+            "Bjorge Meulemeester"
+        ],
+        "num_pubs": 1
+    },
+    "Gregory D. Hager": {
+        "co_authors": [
+            "Eric Horvitz",
+            "Masaru Ishii",
+            "Randal Bryant",
+            "S. Swaroop Vedula",
+            "Maja Mataric",
+            "Vasant Honavar"
+        ],
+        "num_pubs": 2
+    },
+    "Randal Bryant": {
+        "co_authors": [
+            "Gregory D. Hager",
+            "Eric Horvitz",
+            "Maja Mataric",
+            "Vasant Honavar"
+        ],
+        "num_pubs": 1
+    },
+    "Eric Horvitz": {
+        "co_authors": [
+            "Gregory D. Hager",
+            "Randal Bryant",
+            "Maja Mataric",
+            "Vasant Honavar"
+        ],
+        "num_pubs": 1
+    },
+    "Maja Mataric": {
+        "co_authors": [
+            "Gregory D. Hager",
+            "Randal Bryant",
+            "Eric Horvitz",
+            "Vasant Honavar"
+        ],
+        "num_pubs": 1
+    },
+    "Vasant Honavar": {
+        "co_authors": [
+            "Gregory D. Hager",
+            "Randal Bryant",
+            "Eric Horvitz",
+            "Maja Mataric"
+        ],
+        "num_pubs": 1
+    },
+    "Jean-Philippe Rennard": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Tao Qiang": {
+        "co_authors": [
+            "Honghong Gao"
+        ],
+        "num_pubs": 1
+    },
+    "Honghong Gao": {
+        "co_authors": [
+            "Tao Qiang"
+        ],
+        "num_pubs": 1
+    },
+    "Gabriel Ciobanu": {
+        "co_authors": [],
+        "num_pubs": 2
+    },
+    "Behrouz Zolfaghari": {
+        "co_authors": [
+            "Jacob Krzciok",
+            "Reza M. Parizi",
+            "Abbas Yazdinejad",
+            "Ali Dehghantanha",
+            "Elnaz Rabieinejad",
+            "Khodakhast Bibak"
+        ],
+        "num_pubs": 2
+    },
+    "Elnaz Rabieinejad": {
+        "co_authors": [
+            "Behrouz Zolfaghari",
+            "Abbas Yazdinejad",
+            "Reza M. Parizi",
+            "Ali Dehghantanha"
+        ],
+        "num_pubs": 1
+    },
+    "Abbas Yazdinejad": {
+        "co_authors": [
+            "Jacob Krzciok",
+            "Ali Dehghantanha",
+            "Reza M. Parizi",
+            "Behrouz Zolfaghari",
+            "Elnaz Rabieinejad",
+            "Khodakhast Bibak"
+        ],
+        "num_pubs": 2
+    },
+    "Reza M. Parizi": {
+        "co_authors": [
+            "Behrouz Zolfaghari",
+            "Elnaz Rabieinejad",
+            "Abbas Yazdinejad",
+            "Ali Dehghantanha"
+        ],
+        "num_pubs": 1
+    },
+    "Ali Dehghantanha": {
+        "co_authors": [
+            "Jacob Krzciok",
+            "Reza M. Parizi",
+            "Abbas Yazdinejad",
+            "Behrouz Zolfaghari",
+            "Elnaz Rabieinejad",
+            "Khodakhast Bibak"
+        ],
+        "num_pubs": 2
+    },
+    "Amelie Chi Zhou": {
+        "co_authors": [
+            "Bingsheng He",
+            "Shadi Ibrahim"
+        ],
+        "num_pubs": 1
+    },
+    "Bingsheng He": {
+        "co_authors": [
+            "Amelie Chi Zhou",
+            "Shadi Ibrahim"
+        ],
+        "num_pubs": 1
+    },
+    "Shadi Ibrahim": {
+        "co_authors": [
+            "Amelie Chi Zhou",
+            "Bingsheng He"
+        ],
+        "num_pubs": 1
+    },
+    "M. V. Altaiski": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Pierre de Buyl": {
+        "co_authors": [
+            "Nelle Varoquaux"
+        ],
+        "num_pubs": 1
+    },
+    "Nelle Varoquaux": {
+        "co_authors": [
+            "Pierre de Buyl"
+        ],
+        "num_pubs": 1
+    },
+    "Yingjie Hu": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Pascal Weil": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Salvador E. Venegas-Andraca": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yangyue Feng": {
+        "co_authors": [
+            "Zhaohui Luo"
+        ],
+        "num_pubs": 1
+    },
+    "Zhaohui Luo": {
+        "co_authors": [
+            "Yangyue Feng"
+        ],
+        "num_pubs": 1
+    },
+    "Olivier Finkel": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Samson Abramsky": {
+        "co_authors": [],
+        "num_pubs": 4
+    },
+    "Jianhong Liu": {
+        "co_authors": [
+            "Dianshi Li"
+        ],
+        "num_pubs": 1
+    },
+    "Dianshi Li": {
+        "co_authors": [
+            "Jianhong Liu"
+        ],
+        "num_pubs": 1
+    },
+    "Shilpi Goel": {
+        "co_authors": [
+            "Warren A Hunt, Jr.",
+            "Matt Kaufmann"
+        ],
+        "num_pubs": 1
+    },
+    "Warren A Hunt, Jr.": {
+        "co_authors": [
+            "Shilpi Goel",
+            "Matt Kaufmann"
+        ],
+        "num_pubs": 1
+    },
+    "Matt Kaufmann": {
+        "co_authors": [
+            "Shilpi Goel",
+            "Warren A Hunt, Jr."
+        ],
+        "num_pubs": 1
+    },
+    "Luca Aceto": {
+        "co_authors": [
+            "Anna Ingolfsdottir",
+            "Antonis Achilleos",
+            "Adrian Francalanza",
+            "Elli Anastasiadi"
+        ],
+        "num_pubs": 2
+    },
+    "Adrian Francalanza": {
+        "co_authors": [
+            "Anna Ingolfsdottir",
+            "Antonis Achilleos",
+            "Luca Aceto",
+            "Elli Anastasiadi"
+        ],
+        "num_pubs": 2
+    },
+    "Anna Ingolfsdottir": {
+        "co_authors": [
+            "Antonis Achilleos",
+            "Adrian Francalanza",
+            "Luca Aceto",
+            "Elli Anastasiadi"
+        ],
+        "num_pubs": 2
+    },
+    "Sara Kingsley": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Terry Ruas": {
+        "co_authors": [
+            "Jan Philip Wahle",
+            "Lennart K\u00fcll",
+            "Saif M. Mohammad",
+            "Bela Gipp"
+        ],
+        "num_pubs": 1
+    },
+    "Jan Philip Wahle": {
+        "co_authors": [
+            "Terry Ruas",
+            "Lennart K\u00fcll",
+            "Saif M. Mohammad",
+            "Bela Gipp"
+        ],
+        "num_pubs": 1
+    },
+    "Lennart K\u00fcll": {
+        "co_authors": [
+            "Terry Ruas",
+            "Jan Philip Wahle",
+            "Saif M. Mohammad",
+            "Bela Gipp"
+        ],
+        "num_pubs": 1
+    },
+    "Saif M. Mohammad": {
+        "co_authors": [
+            "Terry Ruas",
+            "Jan Philip Wahle",
+            "Lennart K\u00fcll",
+            "Bela Gipp"
+        ],
+        "num_pubs": 1
+    },
+    "Bela Gipp": {
+        "co_authors": [
+            "Terry Ruas",
+            "Jan Philip Wahle",
+            "Lennart K\u00fcll",
+            "Saif M. Mohammad"
+        ],
+        "num_pubs": 1
+    },
+    "Ma\u0142gorzata Moczurad": {
+        "co_authors": [
+            "Piotr Zgliczy\u0144ski"
+        ],
+        "num_pubs": 1
+    },
+    "Piotr Zgliczy\u0144ski": {
+        "co_authors": [
+            "Ma\u0142gorzata Moczurad"
+        ],
+        "num_pubs": 1
+    },
+    "Longbing Cao": {
+        "co_authors": [],
+        "num_pubs": 2
+    },
+    "Antonis Achilleos": {
+        "co_authors": [
+            "Luca Aceto",
+            "Elli Anastasiadi",
+            "Adrian Francalanza",
+            "Anna Ingolfsdottir"
+        ],
+        "num_pubs": 1
+    },
+    "Elli Anastasiadi": {
+        "co_authors": [
+            "Luca Aceto",
+            "Antonis Achilleos",
+            "Adrian Francalanza",
+            "Anna Ingolfsdottir"
+        ],
+        "num_pubs": 1
+    },
+    "Nicholas J. Horton": {
+        "co_authors": [
+            "Johanna S. Hardin",
+            "Benjamin S. Baumer"
+        ],
+        "num_pubs": 2
+    },
+    "Johanna S. Hardin": {
+        "co_authors": [
+            "Nicholas J. Horton"
+        ],
+        "num_pubs": 1
+    },
+    "Shaonan Wang": {
+        "co_authors": [
+            "Nai Ding",
+            "Nan Lin",
+            "Jiajun Zhang",
+            "Chengqing Zong"
+        ],
+        "num_pubs": 1
+    },
+    "Nai Ding": {
+        "co_authors": [
+            "Shaonan Wang",
+            "Nan Lin",
+            "Jiajun Zhang",
+            "Chengqing Zong"
+        ],
+        "num_pubs": 1
+    },
+    "Nan Lin": {
+        "co_authors": [
+            "Shaonan Wang",
+            "Nai Ding",
+            "Jiajun Zhang",
+            "Chengqing Zong"
+        ],
+        "num_pubs": 1
+    },
+    "Jiajun Zhang": {
+        "co_authors": [
+            "Shaonan Wang",
+            "Nai Ding",
+            "Nan Lin",
+            "Chengqing Zong"
+        ],
+        "num_pubs": 1
+    },
+    "Chengqing Zong": {
+        "co_authors": [
+            "Shaonan Wang",
+            "Nai Ding",
+            "Nan Lin",
+            "Jiajun Zhang"
+        ],
+        "num_pubs": 1
+    },
+    "Alexander Kott": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Temur Kutsia": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Karen Masters": {
+        "co_authors": [
+            "Eun Young Oh",
+            "Joe Cox",
+            "Brooke Simmons",
+            "Chris Lintott",
+            "Gary Graham",
+            "Anita Greenhill",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Eun Young Oh": {
+        "co_authors": [
+            "Karen Masters",
+            "Joe Cox",
+            "Brooke Simmons",
+            "Chris Lintott",
+            "Gary Graham",
+            "Anita Greenhill",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Joe Cox": {
+        "co_authors": [
+            "Karen Masters",
+            "Eun Young Oh",
+            "Brooke Simmons",
+            "Chris Lintott",
+            "Gary Graham",
+            "Anita Greenhill",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Brooke Simmons": {
+        "co_authors": [
+            "Karen Masters",
+            "Eun Young Oh",
+            "Joe Cox",
+            "Chris Lintott",
+            "Gary Graham",
+            "Anita Greenhill",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Chris Lintott": {
+        "co_authors": [
+            "Karen Masters",
+            "Eun Young Oh",
+            "Joe Cox",
+            "Brooke Simmons",
+            "Gary Graham",
+            "Anita Greenhill",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Gary Graham": {
+        "co_authors": [
+            "Karen Masters",
+            "Eun Young Oh",
+            "Joe Cox",
+            "Brooke Simmons",
+            "Chris Lintott",
+            "Anita Greenhill",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Anita Greenhill": {
+        "co_authors": [
+            "Karen Masters",
+            "Eun Young Oh",
+            "Joe Cox",
+            "Brooke Simmons",
+            "Chris Lintott",
+            "Gary Graham",
+            "Kate Holmes"
+        ],
+        "num_pubs": 1
+    },
+    "Kate Holmes": {
+        "co_authors": [
+            "Karen Masters",
+            "Eun Young Oh",
+            "Joe Cox",
+            "Brooke Simmons",
+            "Chris Lintott",
+            "Gary Graham",
+            "Anita Greenhill"
+        ],
+        "num_pubs": 1
+    },
+    "Joseph Distasio": {
+        "co_authors": [
+            "Thomas P. Way"
+        ],
+        "num_pubs": 1
+    },
+    "Thomas P. Way": {
+        "co_authors": [
+            "Joseph Distasio"
+        ],
+        "num_pubs": 1
+    },
+    "Claude Sureson": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Ludwig Staiger": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Bill Stoddart": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Dmitry Filippov": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Hrishav Bakul Barua": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Meenakshi Das": {
+        "co_authors": [
+            "Daniela Marghitu",
+            "Fatemeh Jamshidi",
+            "Mahender Mandala",
+            "Ayanna Howard"
+        ],
+        "num_pubs": 1
+    },
+    "Daniela Marghitu": {
+        "co_authors": [
+            "Meenakshi Das",
+            "Fatemeh Jamshidi",
+            "Mahender Mandala",
+            "Ayanna Howard"
+        ],
+        "num_pubs": 1
+    },
+    "Fatemeh Jamshidi": {
+        "co_authors": [
+            "Meenakshi Das",
+            "Daniela Marghitu",
+            "Mahender Mandala",
+            "Ayanna Howard"
+        ],
+        "num_pubs": 1
+    },
+    "Mahender Mandala": {
+        "co_authors": [
+            "Meenakshi Das",
+            "Daniela Marghitu",
+            "Fatemeh Jamshidi",
+            "Ayanna Howard"
+        ],
+        "num_pubs": 1
+    },
+    "Ayanna Howard": {
+        "co_authors": [
+            "Meenakshi Das",
+            "Daniela Marghitu",
+            "Fatemeh Jamshidi",
+            "Mahender Mandala"
+        ],
+        "num_pubs": 1
+    },
+    "Tesfamariam M. Abuhay": {
+        "co_authors": [
+            "Sergey V. Kovalchuk",
+            "Klavdiya O. Bochenina",
+            "George Kampis",
+            "Valeria V. Krzhizhanovskaya",
+            "Michael H. Lees"
+        ],
+        "num_pubs": 1
+    },
+    "Sergey V. Kovalchuk": {
+        "co_authors": [
+            "Tesfamariam M. Abuhay",
+            "Klavdiya O. Bochenina",
+            "George Kampis",
+            "Valeria V. Krzhizhanovskaya",
+            "Michael H. Lees"
+        ],
+        "num_pubs": 1
+    },
+    "Klavdiya O. Bochenina": {
+        "co_authors": [
+            "Tesfamariam M. Abuhay",
+            "Sergey V. Kovalchuk",
+            "George Kampis",
+            "Valeria V. Krzhizhanovskaya",
+            "Michael H. Lees"
+        ],
+        "num_pubs": 1
+    },
+    "George Kampis": {
+        "co_authors": [
+            "Tesfamariam M. Abuhay",
+            "Sergey V. Kovalchuk",
+            "Klavdiya O. Bochenina",
+            "Valeria V. Krzhizhanovskaya",
+            "Michael H. Lees"
+        ],
+        "num_pubs": 1
+    },
+    "Valeria V. Krzhizhanovskaya": {
+        "co_authors": [
+            "Tesfamariam M. Abuhay",
+            "Sergey V. Kovalchuk",
+            "Klavdiya O. Bochenina",
+            "George Kampis",
+            "Michael H. Lees"
+        ],
+        "num_pubs": 1
+    },
+    "Michael H. Lees": {
+        "co_authors": [
+            "Tesfamariam M. Abuhay",
+            "Sergey V. Kovalchuk",
+            "Klavdiya O. Bochenina",
+            "George Kampis",
+            "Valeria V. Krzhizhanovskaya"
+        ],
+        "num_pubs": 1
+    },
+    "Elina Eickst\u00e4dt": {
+        "co_authors": [
+            "Martin Becke",
+            "Martin Kohler",
+            "Julia Padberg"
+        ],
+        "num_pubs": 1
+    },
+    "Martin Becke": {
+        "co_authors": [
+            "Elina Eickst\u00e4dt",
+            "Martin Kohler",
+            "Julia Padberg"
+        ],
+        "num_pubs": 1
+    },
+    "Martin Kohler": {
+        "co_authors": [
+            "Elina Eickst\u00e4dt",
+            "Martin Becke",
+            "Julia Padberg"
+        ],
+        "num_pubs": 1
+    },
+    "Julia Padberg": {
+        "co_authors": [
+            "Elina Eickst\u00e4dt",
+            "Martin Becke",
+            "Martin Kohler"
+        ],
+        "num_pubs": 1
+    },
+    "Rima Hazra": {
+        "co_authors": [
+            "Mayank Singh",
+            "Pawan Goyal",
+            "Bibhas Adhikari",
+            "Animesh Mukherjee"
+        ],
+        "num_pubs": 1
+    },
+    "Mayank Singh": {
+        "co_authors": [
+            "Rima Hazra",
+            "Pawan Goyal",
+            "Bibhas Adhikari",
+            "Animesh Mukherjee"
+        ],
+        "num_pubs": 1
+    },
+    "Pawan Goyal": {
+        "co_authors": [
+            "Ankan Mullick",
+            "Animesh Mukherjee",
+            "Satadeep Bhattacharjee",
+            "Tapas Nayak",
+            "Seung-Cheol Lee",
+            "G Sai Chaitanya",
+            "Rima Hazra",
+            "Mayank Singh",
+            "Samir Ghui",
+            "Bibhas Adhikari",
+            "Akash Ghosh"
+        ],
+        "num_pubs": 2
+    },
+    "Bibhas Adhikari": {
+        "co_authors": [
+            "Rima Hazra",
+            "Mayank Singh",
+            "Pawan Goyal",
+            "Animesh Mukherjee"
+        ],
+        "num_pubs": 1
+    },
+    "Animesh Mukherjee": {
+        "co_authors": [
+            "Rima Hazra",
+            "Mayank Singh",
+            "Pawan Goyal",
+            "Bibhas Adhikari"
+        ],
+        "num_pubs": 1
+    },
+    "Maria R\u00fcther": {
+        "co_authors": [
+            "Thomas Bandholtz",
+            "Antoine Logean"
+        ],
+        "num_pubs": 1
+    },
+    "Thomas Bandholtz": {
+        "co_authors": [
+            "Maria R\u00fcther",
+            "Antoine Logean"
+        ],
+        "num_pubs": 1
+    },
+    "Antoine Logean": {
+        "co_authors": [
+            "Maria R\u00fcther",
+            "Thomas Bandholtz"
+        ],
+        "num_pubs": 1
+    },
+    "S. Swaroop Vedula": {
+        "co_authors": [
+            "Masaru Ishii",
+            "Gregory D. Hager"
+        ],
+        "num_pubs": 1
+    },
+    "Masaru Ishii": {
+        "co_authors": [
+            "S. Swaroop Vedula",
+            "Gregory D. Hager"
+        ],
+        "num_pubs": 1
+    },
+    "Joseph Y. Halpern": {
+        "co_authors": [],
+        "num_pubs": 3
+    },
+    "D. J. Dean": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Wladmir Cardoso Brand\u00e3o": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yongjun Zhang": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Genoveva Vargas-Solar": {
+        "co_authors": [
+            "Santiago Negrete-Yankelevich",
+            "Javier A. Espinosa-Oviedo",
+            "Khalid Belhajjame",
+            "Jos\u00e9-Luis Zechinelli-Martini"
+        ],
+        "num_pubs": 1
+    },
+    "Santiago Negrete-Yankelevich": {
+        "co_authors": [
+            "Genoveva Vargas-Solar",
+            "Javier A. Espinosa-Oviedo",
+            "Khalid Belhajjame",
+            "Jos\u00e9-Luis Zechinelli-Martini"
+        ],
+        "num_pubs": 1
+    },
+    "Javier A. Espinosa-Oviedo": {
+        "co_authors": [
+            "Genoveva Vargas-Solar",
+            "Santiago Negrete-Yankelevich",
+            "Khalid Belhajjame",
+            "Jos\u00e9-Luis Zechinelli-Martini"
+        ],
+        "num_pubs": 1
+    },
+    "Khalid Belhajjame": {
+        "co_authors": [
+            "Genoveva Vargas-Solar",
+            "Santiago Negrete-Yankelevich",
+            "Javier A. Espinosa-Oviedo",
+            "Jos\u00e9-Luis Zechinelli-Martini"
+        ],
+        "num_pubs": 1
+    },
+    "Jos\u00e9-Luis Zechinelli-Martini": {
+        "co_authors": [
+            "Genoveva Vargas-Solar",
+            "Santiago Negrete-Yankelevich",
+            "Javier A. Espinosa-Oviedo",
+            "Khalid Belhajjame"
+        ],
+        "num_pubs": 1
+    },
+    "Konrad Burnik": {
+        "co_authors": [
+            "Zvonko Iljazovic"
+        ],
+        "num_pubs": 1
+    },
+    "Adel Bouhoula": {
+        "co_authors": [
+            "Tetsuo Ida",
+            "Fairouz Kamareddine"
+        ],
+        "num_pubs": 1
+    },
+    "Tetsuo Ida": {
+        "co_authors": [
+            "Adel Bouhoula",
+            "Fairouz Kamareddine"
+        ],
+        "num_pubs": 1
+    },
+    "Fairouz Kamareddine": {
+        "co_authors": [
+            "Adel Bouhoula",
+            "Tetsuo Ida"
+        ],
+        "num_pubs": 1
+    },
+    "Asad Malik": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yazhen Wang": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Eric C. R. Hehner": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Mine Dogucu": {
+        "co_authors": [
+            "Sinem Demirci",
+            "Harry Bendekgey",
+            "Federica Zoe Ricci",
+            "Catalina M. Medina"
+        ],
+        "num_pubs": 1
+    },
+    "Sinem Demirci": {
+        "co_authors": [
+            "Mine Dogucu",
+            "Harry Bendekgey",
+            "Federica Zoe Ricci",
+            "Catalina M. Medina"
+        ],
+        "num_pubs": 1
+    },
+    "Harry Bendekgey": {
+        "co_authors": [
+            "Mine Dogucu",
+            "Sinem Demirci",
+            "Federica Zoe Ricci",
+            "Catalina M. Medina"
+        ],
+        "num_pubs": 1
+    },
+    "Federica Zoe Ricci": {
+        "co_authors": [
+            "Mine Dogucu",
+            "Sinem Demirci",
+            "Harry Bendekgey",
+            "Catalina M. Medina"
+        ],
+        "num_pubs": 1
+    },
+    "Catalina M. Medina": {
+        "co_authors": [
+            "Mine Dogucu",
+            "Sinem Demirci",
+            "Harry Bendekgey",
+            "Federica Zoe Ricci"
+        ],
+        "num_pubs": 1
+    },
+    "Paula Alexandra Silva": {
+        "co_authors": [
+            "Philipp Jordan"
+        ],
+        "num_pubs": 1
+    },
+    "M. E. Eberhart": {
+        "co_authors": [
+            "D. P. Clougherty"
+        ],
+        "num_pubs": 1
+    },
+    "D. P. Clougherty": {
+        "co_authors": [
+            "M. E. Eberhart"
+        ],
+        "num_pubs": 1
+    },
+    "T. D. Roopamala": {
+        "co_authors": [
+            "S. K. Katti"
+        ],
+        "num_pubs": 1
+    },
+    "S. K. Katti": {
+        "co_authors": [
+            "T. D. Roopamala"
+        ],
+        "num_pubs": 1
+    },
+    "M\u00e1rio Florido": {
+        "co_authors": [
+            "Ian Mackie"
+        ],
+        "num_pubs": 1
+    },
+    "Ian Mackie": {
+        "co_authors": [
+            "M\u00e1rio Florido"
+        ],
+        "num_pubs": 1
+    },
+    "Rineke Verbrugge": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Andrea Simonetto": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Alexander Rabinovich": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Massimo Franceschet": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Arnaud Carayol": {
+        "co_authors": [
+            "David Baelde",
+            "Matthew Hague"
+        ],
+        "num_pubs": 2
+    },
+    "Matthew Hague": {
+        "co_authors": [
+            "Arnaud Carayol"
+        ],
+        "num_pubs": 1
+    },
+    "Ivan Matychyn": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yong Wang": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Krzysztof R. Apt": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Pierre Ohlmann": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Ankan Mullick": {
+        "co_authors": [
+            "Akash Ghosh",
+            "G Sai Chaitanya",
+            "Samir Ghui",
+            "Tapas Nayak",
+            "Seung-Cheol Lee",
+            "Satadeep Bhattacharjee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "Akash Ghosh": {
+        "co_authors": [
+            "Ankan Mullick",
+            "G Sai Chaitanya",
+            "Samir Ghui",
+            "Tapas Nayak",
+            "Seung-Cheol Lee",
+            "Satadeep Bhattacharjee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "G Sai Chaitanya": {
+        "co_authors": [
+            "Ankan Mullick",
+            "Akash Ghosh",
+            "Samir Ghui",
+            "Tapas Nayak",
+            "Seung-Cheol Lee",
+            "Satadeep Bhattacharjee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "Samir Ghui": {
+        "co_authors": [
+            "Ankan Mullick",
+            "Akash Ghosh",
+            "G Sai Chaitanya",
+            "Tapas Nayak",
+            "Seung-Cheol Lee",
+            "Satadeep Bhattacharjee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "Tapas Nayak": {
+        "co_authors": [
+            "Ankan Mullick",
+            "Akash Ghosh",
+            "G Sai Chaitanya",
+            "Samir Ghui",
+            "Seung-Cheol Lee",
+            "Satadeep Bhattacharjee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "Seung-Cheol Lee": {
+        "co_authors": [
+            "Ankan Mullick",
+            "Akash Ghosh",
+            "G Sai Chaitanya",
+            "Samir Ghui",
+            "Tapas Nayak",
+            "Satadeep Bhattacharjee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "Satadeep Bhattacharjee": {
+        "co_authors": [
+            "Ankan Mullick",
+            "Akash Ghosh",
+            "G Sai Chaitanya",
+            "Samir Ghui",
+            "Tapas Nayak",
+            "Seung-Cheol Lee",
+            "Pawan Goyal"
+        ],
+        "num_pubs": 1
+    },
+    "Yovaninna Alarc\u00f3n-Soto": {
+        "co_authors": [
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Ipek Guler",
+            "Mercedes Conde-Amboage",
+            "Francisco Gude-Sampedro",
+            "Klaus Langohr",
+            "Carmen Cadarso-Su\u00e1rez",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Jenifer Espasand\u00edn-Dom\u00ednguez": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Ipek Guler",
+            "Mercedes Conde-Amboage",
+            "Francisco Gude-Sampedro",
+            "Klaus Langohr",
+            "Carmen Cadarso-Su\u00e1rez",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Ipek Guler": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Mercedes Conde-Amboage",
+            "Francisco Gude-Sampedro",
+            "Klaus Langohr",
+            "Carmen Cadarso-Su\u00e1rez",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Mercedes Conde-Amboage": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Ipek Guler",
+            "Francisco Gude-Sampedro",
+            "Klaus Langohr",
+            "Carmen Cadarso-Su\u00e1rez",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Francisco Gude-Sampedro": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Ipek Guler",
+            "Mercedes Conde-Amboage",
+            "Klaus Langohr",
+            "Carmen Cadarso-Su\u00e1rez",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Klaus Langohr": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Ipek Guler",
+            "Mercedes Conde-Amboage",
+            "Francisco Gude-Sampedro",
+            "Carmen Cadarso-Su\u00e1rez",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Carmen Cadarso-Su\u00e1rez": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Ipek Guler",
+            "Mercedes Conde-Amboage",
+            "Francisco Gude-Sampedro",
+            "Klaus Langohr",
+            "Guadalupe G\u00f3mez-Melis"
+        ],
+        "num_pubs": 1
+    },
+    "Guadalupe G\u00f3mez-Melis": {
+        "co_authors": [
+            "Yovaninna Alarc\u00f3n-Soto",
+            "Jenifer Espasand\u00edn-Dom\u00ednguez",
+            "Ipek Guler",
+            "Mercedes Conde-Amboage",
+            "Francisco Gude-Sampedro",
+            "Klaus Langohr",
+            "Carmen Cadarso-Su\u00e1rez"
+        ],
+        "num_pubs": 1
+    },
+    "Yehia Elkhatib": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Yong Zheng": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Balaram Panda": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Guillaume Bonfante": {
+        "co_authors": [
+            "Yves Guiraud"
+        ],
+        "num_pubs": 1
+    },
+    "Yves Guiraud": {
+        "co_authors": [
+            "Guillaume Bonfante"
+        ],
+        "num_pubs": 2
+    },
+    "Bruno Buchberger": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Joonas Pesonen": {
+        "co_authors": [
+            "Anna Fomkin",
+            "Lauri Jokipii"
+        ],
+        "num_pubs": 1
+    },
+    "Anna Fomkin": {
+        "co_authors": [
+            "Joonas Pesonen",
+            "Lauri Jokipii"
+        ],
+        "num_pubs": 1
+    },
+    "Lauri Jokipii": {
+        "co_authors": [
+            "Joonas Pesonen",
+            "Anna Fomkin"
+        ],
+        "num_pubs": 1
+    },
+    "Xiaojiao Yu": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Ralph Matthes": {
+        "co_authors": [
+            "Matteo Mio"
+        ],
+        "num_pubs": 1
+    },
+    "Matteo Mio": {
+        "co_authors": [
+            "Ralph Matthes"
+        ],
+        "num_pubs": 1
+    },
+    "Zeeshan Ahmed": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Hajime Ishihara": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Mario Coccia": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Benjamin S. Baumer": {
+        "co_authors": [
+            "Nicholas J. Horton"
+        ],
+        "num_pubs": 1
+    },
+    "Shuchi Chawla": {
+        "co_authors": [
+            "Jelani Nelson",
+            "Chris Umans",
+            "David Woodruff"
+        ],
+        "num_pubs": 1
+    },
+    "Jelani Nelson": {
+        "co_authors": [
+            "Shuchi Chawla",
+            "Chris Umans",
+            "David Woodruff"
+        ],
+        "num_pubs": 1
+    },
+    "Chris Umans": {
+        "co_authors": [
+            "Shuchi Chawla",
+            "Jelani Nelson",
+            "David Woodruff"
+        ],
+        "num_pubs": 1
+    },
+    "David Woodruff": {
+        "co_authors": [
+            "Shuchi Chawla",
+            "Jelani Nelson",
+            "Chris Umans"
+        ],
+        "num_pubs": 1
+    },
+    "Daniel Kirchner": {
+        "co_authors": [
+            "Christoph Benzm\u00fcller",
+            "Edward N. Zalta"
+        ],
+        "num_pubs": 1
+    },
+    "Christoph Benzm\u00fcller": {
+        "co_authors": [
+            "Daniel Kirchner",
+            "Edward N. Zalta"
+        ],
+        "num_pubs": 1
+    },
+    "Edward N. Zalta": {
+        "co_authors": [
+            "Daniel Kirchner",
+            "Christoph Benzm\u00fcller"
+        ],
+        "num_pubs": 1
+    },
+    "JudithAnn R. Hartman": {
+        "co_authors": [
+            "Eric A. Nelson"
+        ],
+        "num_pubs": 1
+    },
+    "Eric A. Nelson": {
+        "co_authors": [
+            "JudithAnn R. Hartman"
+        ],
+        "num_pubs": 1
+    },
+    "Edith Hemaspaandra": {
+        "co_authors": [
+            "Lane A. Hemaspaandra",
+            "Henning Schnoor"
+        ],
+        "num_pubs": 2
+    },
+    "Lane A. Hemaspaandra": {
+        "co_authors": [
+            "Edith Hemaspaandra"
+        ],
+        "num_pubs": 1
+    },
+    "Juergen Schmidhuber": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Jacob Krzciok": {
+        "co_authors": [
+            "Behrouz Zolfaghari",
+            "Abbas Yazdinejad",
+            "Ali Dehghantanha",
+            "Khodakhast Bibak"
+        ],
+        "num_pubs": 1
+    },
+    "Khodakhast Bibak": {
+        "co_authors": [
+            "Behrouz Zolfaghari",
+            "Abbas Yazdinejad",
+            "Ali Dehghantanha",
+            "Jacob Krzciok"
+        ],
+        "num_pubs": 1
+    },
+    "Lev Bekenev": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Olexandra Baskova",
+            "Olexander Gatsenko",
+            "Elena Zasimchuk",
+            "Sergii Stirenko"
+        ],
+        "num_pubs": 1
+    },
+    "Olexandra Baskova": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Lev Bekenev",
+            "Olexander Gatsenko",
+            "Elena Zasimchuk",
+            "Sergii Stirenko"
+        ],
+        "num_pubs": 1
+    },
+    "Olexander Gatsenko": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Lev Bekenev",
+            "Olexandra Baskova",
+            "Elena Zasimchuk",
+            "Sergii Stirenko"
+        ],
+        "num_pubs": 1
+    },
+    "Sergii Stirenko": {
+        "co_authors": [
+            "Yuri Gordienko",
+            "Lev Bekenev",
+            "Olexandra Baskova",
+            "Olexander Gatsenko",
+            "Elena Zasimchuk"
+        ],
+        "num_pubs": 1
+    },
+    "Russell O'Connor": {
+        "co_authors": [
+            "Bas Spitters"
+        ],
+        "num_pubs": 2
+    },
+    "Bas Spitters": {
+        "co_authors": [
+            "Russell O'Connor"
+        ],
+        "num_pubs": 1
+    },
+    "Jim Gray": {
+        "co_authors": [
+            "Alexander S. Szalay"
+        ],
+        "num_pubs": 1
+    },
+    "Alexander S. Szalay": {
+        "co_authors": [
+            "Jim Gray"
+        ],
+        "num_pubs": 1
+    },
+    "Samuel Deng": {
+        "co_authors": [
+            "Achille Varzi"
+        ],
+        "num_pubs": 1
+    },
+    "Achille Varzi": {
+        "co_authors": [
+            "Samuel Deng"
+        ],
+        "num_pubs": 1
+    },
+    "Roger White": {
+        "co_authors": [
+            "Wolfgang Banzhaf"
+        ],
+        "num_pubs": 1
+    },
+    "Wolfgang Banzhaf": {
+        "co_authors": [
+            "Roger White"
+        ],
+        "num_pubs": 1
+    },
+    "Micha\u0142 J. Gajda": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Kevin Jorissen": {
+        "co_authors": [
+            "Fernando D. Vila",
+            "John J. Rehr"
+        ],
+        "num_pubs": 1
+    },
+    "Fernando D. Vila": {
+        "co_authors": [
+            "Kevin Jorissen",
+            "John J. Rehr"
+        ],
+        "num_pubs": 1
+    },
+    "John J. Rehr": {
+        "co_authors": [
+            "Kevin Jorissen",
+            "Fernando D. Vila"
+        ],
+        "num_pubs": 1
+    },
+    "Leszczynski Jacek": {
+        "co_authors": [
+            "Ciesielski Mariusz",
+            "Pluta Sebastian"
+        ],
+        "num_pubs": 2
+    },
+    "Pluta Sebastian": {
+        "co_authors": [
+            "Leszczynski Jacek"
+        ],
+        "num_pubs": 1
+    },
+    "Xin-She Yang": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Antonio Roque": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Greg Michaelson": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Orit Hazzan": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "David Y. J. Kim": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Martin Kuban": {
+        "co_authors": [
+            "Santiago Rigamonti",
+            "Claudia Draxl"
+        ],
+        "num_pubs": 1
+    },
+    "Santiago Rigamonti": {
+        "co_authors": [
+            "Martin Kuban",
+            "Claudia Draxl"
+        ],
+        "num_pubs": 1
+    },
+    "Claudia Draxl": {
+        "co_authors": [
+            "Lars Grunske",
+            "Matthias Scheffler",
+            "Thomas Vogel",
+            "Markus Scheidgen",
+            "Santiago Rigamonti",
+            "Martin Kuban",
+            "Stephan Druskat"
+        ],
+        "num_pubs": 3
+    },
+    "Joel Ouaknine": {
+        "co_authors": [
+            "Hristina Palikareva",
+            "A. W. Roscoe",
+            "James Worrell"
+        ],
+        "num_pubs": 1
+    },
+    "Hristina Palikareva": {
+        "co_authors": [
+            "Joel Ouaknine",
+            "A. W. Roscoe",
+            "James Worrell"
+        ],
+        "num_pubs": 1
+    },
+    "A. W. Roscoe": {
+        "co_authors": [
+            "Joel Ouaknine",
+            "Hristina Palikareva",
+            "James Worrell"
+        ],
+        "num_pubs": 1
+    },
+    "James Worrell": {
+        "co_authors": [
+            "Joel Ouaknine",
+            "Hristina Palikareva",
+            "A. W. Roscoe"
+        ],
+        "num_pubs": 1
+    },
+    "Barbara J. Grosz": {
+        "co_authors": [
+            "David Gray Grant",
+            "Kate Vredenburgh",
+            "Jeff Behrends",
+            "Lily Hu",
+            "Alison Simmons",
+            "Jim Waldo"
+        ],
+        "num_pubs": 1
+    },
+    "David Gray Grant": {
+        "co_authors": [
+            "Barbara J. Grosz",
+            "Kate Vredenburgh",
+            "Jeff Behrends",
+            "Lily Hu",
+            "Alison Simmons",
+            "Jim Waldo"
+        ],
+        "num_pubs": 1
+    },
+    "Kate Vredenburgh": {
+        "co_authors": [
+            "Barbara J. Grosz",
+            "David Gray Grant",
+            "Jeff Behrends",
+            "Lily Hu",
+            "Alison Simmons",
+            "Jim Waldo"
+        ],
+        "num_pubs": 1
+    },
+    "Jeff Behrends": {
+        "co_authors": [
+            "Barbara J. Grosz",
+            "David Gray Grant",
+            "Kate Vredenburgh",
+            "Lily Hu",
+            "Alison Simmons",
+            "Jim Waldo"
+        ],
+        "num_pubs": 1
+    },
+    "Lily Hu": {
+        "co_authors": [
+            "Barbara J. Grosz",
+            "David Gray Grant",
+            "Kate Vredenburgh",
+            "Jeff Behrends",
+            "Alison Simmons",
+            "Jim Waldo"
+        ],
+        "num_pubs": 1
+    },
+    "Alison Simmons": {
+        "co_authors": [
+            "Barbara J. Grosz",
+            "David Gray Grant",
+            "Kate Vredenburgh",
+            "Jeff Behrends",
+            "Lily Hu",
+            "Jim Waldo"
+        ],
+        "num_pubs": 1
+    },
+    "Jim Waldo": {
+        "co_authors": [
+            "Barbara J. Grosz",
+            "David Gray Grant",
+            "Kate Vredenburgh",
+            "Jeff Behrends",
+            "Lily Hu",
+            "Alison Simmons"
+        ],
+        "num_pubs": 1
+    },
+    "Daniel Graziotin": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Lauri Himanen": {
+        "co_authors": [
+            "Amber Geurts",
+            "Adam S. Foster",
+            "Patrick Rinke"
+        ],
+        "num_pubs": 1
+    },
+    "Amber Geurts": {
+        "co_authors": [
+            "Lauri Himanen",
+            "Adam S. Foster",
+            "Patrick Rinke"
+        ],
+        "num_pubs": 1
+    },
+    "Adam S. Foster": {
+        "co_authors": [
+            "Lauri Himanen",
+            "Amber Geurts",
+            "Patrick Rinke"
+        ],
+        "num_pubs": 1
+    },
+    "Patrick Rinke": {
+        "co_authors": [
+            "Christian Joas",
+            "Matthias Scheffler",
+            "Amber Geurts",
+            "Adam S. Foster",
+            "Lauri Himanen",
+            "Xinguo Ren"
+        ],
+        "num_pubs": 2
+    },
+    "Geoff Boeing": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Stefan Hajkowicz": {
+        "co_authors": [
+            "Conrad Sanderson",
+            "Sarvnaz Karimi",
+            "Alexandra Bratanova",
+            "Claire Naughtin"
+        ],
+        "num_pubs": 1
+    },
+    "Conrad Sanderson": {
+        "co_authors": [
+            "Stefan Hajkowicz",
+            "Sarvnaz Karimi",
+            "Alexandra Bratanova",
+            "Claire Naughtin"
+        ],
+        "num_pubs": 1
+    },
+    "Sarvnaz Karimi": {
+        "co_authors": [
+            "Stefan Hajkowicz",
+            "Conrad Sanderson",
+            "Alexandra Bratanova",
+            "Claire Naughtin"
+        ],
+        "num_pubs": 1
+    },
+    "Alexandra Bratanova": {
+        "co_authors": [
+            "Stefan Hajkowicz",
+            "Conrad Sanderson",
+            "Sarvnaz Karimi",
+            "Claire Naughtin"
+        ],
+        "num_pubs": 1
+    },
+    "Claire Naughtin": {
+        "co_authors": [
+            "Stefan Hajkowicz",
+            "Conrad Sanderson",
+            "Sarvnaz Karimi",
+            "Alexandra Bratanova"
+        ],
+        "num_pubs": 1
+    },
+    "Ruoxi Xu": {
+        "co_authors": [
+            "Yingfei Sun",
+            "Mengjie Ren",
+            "Shiguang Guo",
+            "Ruotong Pan",
+            "Hongyu Lin",
+            "Le Sun",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Yingfei Sun": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Mengjie Ren",
+            "Shiguang Guo",
+            "Ruotong Pan",
+            "Hongyu Lin",
+            "Le Sun",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Mengjie Ren": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Yingfei Sun",
+            "Shiguang Guo",
+            "Ruotong Pan",
+            "Hongyu Lin",
+            "Le Sun",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Shiguang Guo": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Yingfei Sun",
+            "Mengjie Ren",
+            "Ruotong Pan",
+            "Hongyu Lin",
+            "Le Sun",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Ruotong Pan": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Yingfei Sun",
+            "Mengjie Ren",
+            "Shiguang Guo",
+            "Hongyu Lin",
+            "Le Sun",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Hongyu Lin": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Yingfei Sun",
+            "Mengjie Ren",
+            "Shiguang Guo",
+            "Ruotong Pan",
+            "Le Sun",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Le Sun": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Yingfei Sun",
+            "Mengjie Ren",
+            "Shiguang Guo",
+            "Ruotong Pan",
+            "Hongyu Lin",
+            "Xianpei Han"
+        ],
+        "num_pubs": 1
+    },
+    "Xianpei Han": {
+        "co_authors": [
+            "Ruoxi Xu",
+            "Yingfei Sun",
+            "Mengjie Ren",
+            "Shiguang Guo",
+            "Ruotong Pan",
+            "Hongyu Lin",
+            "Le Sun"
+        ],
+        "num_pubs": 1
+    },
+    "Sebastiano Vigna": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Vijaykumar S.": {
+        "co_authors": [
+            "Saravanakumar S. G.",
+            "M. Balamurugan"
+        ],
+        "num_pubs": 1
+    },
+    "Saravanakumar S. G.": {
+        "co_authors": [
+            "Vijaykumar S.",
+            "M. Balamurugan"
+        ],
+        "num_pubs": 1
+    },
+    "M. Balamurugan": {
+        "co_authors": [
+            "Vijaykumar S.",
+            "Saravanakumar S. G."
+        ],
+        "num_pubs": 1
+    },
+    "Apostolos Syropoulos": {
+        "co_authors": [],
+        "num_pubs": 2
+    },
+    "Cathal Doyle": {
+        "co_authors": [
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Yevgeniya Li": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Markus Luczak-Roesch": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Dayle Anderson": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Brigitte Glasson": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Matthew Boucher": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Carol Brieseman",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Carol Brieseman": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Dianne Christenson",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Dianne Christenson": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Melissa Coton"
+        ],
+        "num_pubs": 1
+    },
+    "Melissa Coton": {
+        "co_authors": [
+            "Cathal Doyle",
+            "Yevgeniya Li",
+            "Markus Luczak-Roesch",
+            "Dayle Anderson",
+            "Brigitte Glasson",
+            "Matthew Boucher",
+            "Carol Brieseman",
+            "Dianne Christenson"
+        ],
+        "num_pubs": 1
+    },
+    "Elysia Wells": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Samir Passi": {
+        "co_authors": [
+            "Steven J. Jackson"
+        ],
+        "num_pubs": 1
+    },
+    "Steven J. Jackson": {
+        "co_authors": [
+            "Samir Passi"
+        ],
+        "num_pubs": 1
+    },
+    "Sun Kwok": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Jie Hou": {
+        "co_authors": [
+            "Hanxiao Pan",
+            "Teng Guo",
+            "Ivan Lee",
+            "Xiangjie Kong",
+            "Feng Xia"
+        ],
+        "num_pubs": 1
+    },
+    "Hanxiao Pan": {
+        "co_authors": [
+            "Jie Hou",
+            "Teng Guo",
+            "Ivan Lee",
+            "Xiangjie Kong",
+            "Feng Xia"
+        ],
+        "num_pubs": 1
+    },
+    "Teng Guo": {
+        "co_authors": [
+            "Jie Hou",
+            "Hanxiao Pan",
+            "Ivan Lee",
+            "Xiangjie Kong",
+            "Feng Xia"
+        ],
+        "num_pubs": 1
+    },
+    "Ivan Lee": {
+        "co_authors": [
+            "Jie Hou",
+            "Hanxiao Pan",
+            "Teng Guo",
+            "Xiangjie Kong",
+            "Feng Xia"
+        ],
+        "num_pubs": 1
+    },
+    "Xiangjie Kong": {
+        "co_authors": [
+            "Jie Hou",
+            "Hanxiao Pan",
+            "Teng Guo",
+            "Ivan Lee",
+            "Feng Xia"
+        ],
+        "num_pubs": 1
+    },
+    "Feng Xia": {
+        "co_authors": [
+            "Jie Hou",
+            "Xiangjie Kong",
+            "Hanghang Tong",
+            "Wei Wang",
+            "Yu-Ru Lin",
+            "Jun Zhang",
+            "Ivan Lee",
+            "Teng Guo",
+            "Hanxiao Pan"
+        ],
+        "num_pubs": 2
+    },
+    "Joel Ostblom": {
+        "co_authors": [
+            "Tiffany Timbers"
+        ],
+        "num_pubs": 1
+    },
+    "Tiffany Timbers": {
+        "co_authors": [
+            "Joel Ostblom"
+        ],
+        "num_pubs": 1
+    },
+    "Rafael C. Alvarado": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Santiago Miret": {
+        "co_authors": [
+            "N M Anoop Krishnan"
+        ],
+        "num_pubs": 1
+    },
+    "N M Anoop Krishnan": {
+        "co_authors": [
+            "Santiago Miret"
+        ],
+        "num_pubs": 1
+    },
+    "Oleguer Sagarra": {
+        "co_authors": [
+            "Mario Guti\u00e9rrez-Roig",
+            "Isabelle Bonhoure",
+            "Josep Perell\u00f3"
+        ],
+        "num_pubs": 1
+    },
+    "Mario Guti\u00e9rrez-Roig": {
+        "co_authors": [
+            "Oleguer Sagarra",
+            "Isabelle Bonhoure",
+            "Josep Perell\u00f3"
+        ],
+        "num_pubs": 1
+    },
+    "Isabelle Bonhoure": {
+        "co_authors": [
+            "Oleguer Sagarra",
+            "Mario Guti\u00e9rrez-Roig",
+            "Josep Perell\u00f3"
+        ],
+        "num_pubs": 1
+    },
+    "Josep Perell\u00f3": {
+        "co_authors": [
+            "Oleguer Sagarra",
+            "Mario Guti\u00e9rrez-Roig",
+            "Isabelle Bonhoure"
+        ],
+        "num_pubs": 1
+    },
+    "Giorgi Japaridze": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Andreas K\u00fcbler": {
+        "co_authors": [
+            "Christoph Zengler",
+            "Wolfgang K\u00fcchlin"
+        ],
+        "num_pubs": 1
+    },
+    "Christoph Zengler": {
+        "co_authors": [
+            "Andreas K\u00fcbler",
+            "Wolfgang K\u00fcchlin"
+        ],
+        "num_pubs": 1
+    },
+    "Wolfgang K\u00fcchlin": {
+        "co_authors": [
+            "Andreas K\u00fcbler",
+            "Christoph Zengler"
+        ],
+        "num_pubs": 1
+    },
+    "Olivier Ezratty": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Marius Buliga": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Attila Egri-Nagy": {
+        "co_authors": [],
+        "num_pubs": 2
+    },
+    "P. Chris Broekema": {
+        "co_authors": [
+            "Verity L. Allan",
+            "Rob V. van Nieuwpoort",
+            "Henri E. Bal"
+        ],
+        "num_pubs": 1
+    },
+    "Verity L. Allan": {
+        "co_authors": [
+            "P. Chris Broekema",
+            "Rob V. van Nieuwpoort",
+            "Henri E. Bal"
+        ],
+        "num_pubs": 1
+    },
+    "Rob V. van Nieuwpoort": {
+        "co_authors": [
+            "P. Chris Broekema",
+            "Verity L. Allan",
+            "Henri E. Bal"
+        ],
+        "num_pubs": 1
+    },
+    "Henri E. Bal": {
+        "co_authors": [
+            "P. Chris Broekema",
+            "Verity L. Allan",
+            "Rob V. van Nieuwpoort"
+        ],
+        "num_pubs": 1
+    },
+    "Antonio Cerone": {
+        "co_authors": [
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Markus Roggenbach": {
+        "co_authors": [
+            "Antonio Cerone",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "James Davenport": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Casey Denner": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Marie Farrell": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Magne Haveraaen": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Faron Moller": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Philipp Koerner": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Sebastian Krings": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Peter Olveczky": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Bernd-Holger Schlingloff": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Nikolay Shilov",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Nikolay Shilov": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Rustam Zhumagambetov"
+        ],
+        "num_pubs": 1
+    },
+    "Rustam Zhumagambetov": {
+        "co_authors": [
+            "Antonio Cerone",
+            "Markus Roggenbach",
+            "James Davenport",
+            "Casey Denner",
+            "Marie Farrell",
+            "Magne Haveraaen",
+            "Faron Moller",
+            "Philipp Koerner",
+            "Sebastian Krings",
+            "Peter Olveczky",
+            "Bernd-Holger Schlingloff",
+            "Nikolay Shilov"
+        ],
+        "num_pubs": 1
+    },
+    "Russell Miller": {
+        "co_authors": [
+            "Hans Schoutens"
+        ],
+        "num_pubs": 1
+    },
+    "Hans Schoutens": {
+        "co_authors": [
+            "Russell Miller"
+        ],
+        "num_pubs": 1
+    },
+    "Michael J. O'Donnell": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Robert Bredereck": {
+        "co_authors": [
+            "Jiehua Chen",
+            "Piotr Faliszewski",
+            "Jiong Guo",
+            "Rolf Niedermeier",
+            "Gerhard J. Woeginger"
+        ],
+        "num_pubs": 1
+    },
+    "Jiehua Chen": {
+        "co_authors": [
+            "Robert Bredereck",
+            "Piotr Faliszewski",
+            "Jiong Guo",
+            "Rolf Niedermeier",
+            "Gerhard J. Woeginger"
+        ],
+        "num_pubs": 1
+    },
+    "Piotr Faliszewski": {
+        "co_authors": [
+            "Robert Bredereck",
+            "Jiehua Chen",
+            "Jiong Guo",
+            "Rolf Niedermeier",
+            "Gerhard J. Woeginger"
+        ],
+        "num_pubs": 1
+    },
+    "Jiong Guo": {
+        "co_authors": [
+            "Robert Bredereck",
+            "Jiehua Chen",
+            "Piotr Faliszewski",
+            "Rolf Niedermeier",
+            "Gerhard J. Woeginger"
+        ],
+        "num_pubs": 1
+    },
+    "Rolf Niedermeier": {
+        "co_authors": [
+            "Robert Bredereck",
+            "Jiehua Chen",
+            "Piotr Faliszewski",
+            "Jiong Guo",
+            "Gerhard J. Woeginger"
+        ],
+        "num_pubs": 1
+    },
+    "Gerhard J. Woeginger": {
+        "co_authors": [
+            "Robert Bredereck",
+            "Jiehua Chen",
+            "Piotr Faliszewski",
+            "Jiong Guo",
+            "Rolf Niedermeier"
+        ],
+        "num_pubs": 1
+    },
+    "Toni Mancini": {
+        "co_authors": [
+            "Federico Mari",
+            "Annalisa Massini",
+            "Igor Melatti",
+            "Enrico Tronci"
+        ],
+        "num_pubs": 1
+    },
+    "Federico Mari": {
+        "co_authors": [
+            "Toni Mancini",
+            "Annalisa Massini",
+            "Igor Melatti",
+            "Enrico Tronci"
+        ],
+        "num_pubs": 1
+    },
+    "Annalisa Massini": {
+        "co_authors": [
+            "Toni Mancini",
+            "Federico Mari",
+            "Igor Melatti",
+            "Enrico Tronci"
+        ],
+        "num_pubs": 1
+    },
+    "Igor Melatti": {
+        "co_authors": [
+            "Toni Mancini",
+            "Federico Mari",
+            "Annalisa Massini",
+            "Enrico Tronci"
+        ],
+        "num_pubs": 1
+    },
+    "Enrico Tronci": {
+        "co_authors": [
+            "Toni Mancini",
+            "Federico Mari",
+            "Annalisa Massini",
+            "Igor Melatti"
+        ],
+        "num_pubs": 1
+    },
+    "Louis M. Rose": {
+        "co_authors": [
+            "Antonio Garc\u00eda-Dom\u00ednguez",
+            "James R. Williams",
+            "Dimitrios S. Kolovos",
+            "Richard F. Paige",
+            "Fiona A. C. Polack"
+        ],
+        "num_pubs": 1
+    },
+    "Antonio Garc\u00eda-Dom\u00ednguez": {
+        "co_authors": [
+            "Louis M. Rose",
+            "James R. Williams",
+            "Dimitrios S. Kolovos",
+            "Richard F. Paige",
+            "Fiona A. C. Polack"
+        ],
+        "num_pubs": 1
+    },
+    "James R. Williams": {
+        "co_authors": [
+            "Louis M. Rose",
+            "Antonio Garc\u00eda-Dom\u00ednguez",
+            "Dimitrios S. Kolovos",
+            "Richard F. Paige",
+            "Fiona A. C. Polack"
+        ],
+        "num_pubs": 1
+    },
+    "Dimitrios S. Kolovos": {
+        "co_authors": [
+            "Louis M. Rose",
+            "Antonio Garc\u00eda-Dom\u00ednguez",
+            "James R. Williams",
+            "Richard F. Paige",
+            "Fiona A. C. Polack"
+        ],
+        "num_pubs": 1
+    },
+    "Richard F. Paige": {
+        "co_authors": [
+            "Louis M. Rose",
+            "Antonio Garc\u00eda-Dom\u00ednguez",
+            "James R. Williams",
+            "Dimitrios S. Kolovos",
+            "Fiona A. C. Polack"
+        ],
+        "num_pubs": 1
+    },
+    "Fiona A. C. Polack": {
+        "co_authors": [
+            "Louis M. Rose",
+            "Antonio Garc\u00eda-Dom\u00ednguez",
+            "James R. Williams",
+            "Dimitrios S. Kolovos",
+            "Richard F. Paige"
+        ],
+        "num_pubs": 1
+    },
+    "Stephen M. Blackburn": {
+        "co_authors": [
+            "Kathryn S. McKinley",
+            "Lexing Xie"
+        ],
+        "num_pubs": 1
+    },
+    "Kathryn S. McKinley": {
+        "co_authors": [
+            "Stephen M. Blackburn",
+            "Lexing Xie"
+        ],
+        "num_pubs": 1
+    },
+    "Lexing Xie": {
+        "co_authors": [
+            "Stephen M. Blackburn",
+            "Kathryn S. McKinley"
+        ],
+        "num_pubs": 1
+    },
+    "Jun Zhang": {
+        "co_authors": [
+            "Wei Wang",
+            "Feng Xia",
+            "Yu-Ru Lin",
+            "Hanghang Tong"
+        ],
+        "num_pubs": 1
+    },
+    "Wei Wang": {
+        "co_authors": [
+            "Jun Zhang",
+            "Feng Xia",
+            "Yu-Ru Lin",
+            "Hanghang Tong"
+        ],
+        "num_pubs": 1
+    },
+    "Yu-Ru Lin": {
+        "co_authors": [
+            "Jun Zhang",
+            "Wei Wang",
+            "Feng Xia",
+            "Hanghang Tong"
+        ],
+        "num_pubs": 1
+    },
+    "Hanghang Tong": {
+        "co_authors": [
+            "Jun Zhang",
+            "Wei Wang",
+            "Feng Xia",
+            "Yu-Ru Lin"
+        ],
+        "num_pubs": 1
+    },
+    "Sreekrishnan Venkateswaran": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Sitaram Devarakonda": {
+        "co_authors": [
+            "Dmitriy Korobskiy",
+            "Tandy Warnow",
+            "George Chacko"
+        ],
+        "num_pubs": 1
+    },
+    "Dmitriy Korobskiy": {
+        "co_authors": [
+            "Sitaram Devarakonda",
+            "Tandy Warnow",
+            "George Chacko"
+        ],
+        "num_pubs": 1
+    },
+    "Tandy Warnow": {
+        "co_authors": [
+            "Sitaram Devarakonda",
+            "Dmitriy Korobskiy",
+            "George Chacko"
+        ],
+        "num_pubs": 1
+    },
+    "George Chacko": {
+        "co_authors": [
+            "Sitaram Devarakonda",
+            "Dmitriy Korobskiy",
+            "Tandy Warnow"
+        ],
+        "num_pubs": 1
+    },
+    "Jutta Schnabel": {
+        "co_authors": [
+            "Piotr Kalaczy\u0144ski",
+            "Cristiano Bozza",
+            "Tamas Gal"
+        ],
+        "num_pubs": 1
+    },
+    "Piotr Kalaczy\u0144ski": {
+        "co_authors": [
+            "Jutta Schnabel",
+            "Cristiano Bozza",
+            "Tamas Gal"
+        ],
+        "num_pubs": 1
+    },
+    "Cristiano Bozza": {
+        "co_authors": [
+            "Jutta Schnabel",
+            "Piotr Kalaczy\u0144ski",
+            "Tamas Gal"
+        ],
+        "num_pubs": 1
+    },
+    "Tamas Gal": {
+        "co_authors": [
+            "Jutta Schnabel",
+            "Piotr Kalaczy\u0144ski",
+            "Cristiano Bozza"
+        ],
+        "num_pubs": 1
+    },
+    "Yuhao Zhu": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Bhupesh Bishnoi": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Andris Ambainis": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "E. E. Rosinger": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Alexandre Blondin-Mass\u00e9": {
+        "co_authors": [
+            "Srecko Brlek",
+            "Amy Glen",
+            "S\u00e9bastien Labb\u00e9"
+        ],
+        "num_pubs": 1
+    },
+    "Srecko Brlek": {
+        "co_authors": [
+            "Alexandre Blondin-Mass\u00e9",
+            "Amy Glen",
+            "S\u00e9bastien Labb\u00e9"
+        ],
+        "num_pubs": 1
+    },
+    "Amy Glen": {
+        "co_authors": [
+            "Alexandre Blondin-Mass\u00e9",
+            "Srecko Brlek",
+            "S\u00e9bastien Labb\u00e9"
+        ],
+        "num_pubs": 1
+    },
+    "S\u00e9bastien Labb\u00e9": {
+        "co_authors": [
+            "Alexandre Blondin-Mass\u00e9",
+            "Srecko Brlek",
+            "Amy Glen"
+        ],
+        "num_pubs": 1
+    },
+    "Henning Schnoor": {
+        "co_authors": [
+            "Edith Hemaspaandra"
+        ],
+        "num_pubs": 1
+    },
+    "Osman Hegazy": {
+        "co_authors": [
+            "Omar S. Soliman",
+            "Mustafa Abdul Salam"
+        ],
+        "num_pubs": 1
+    },
+    "Omar S. Soliman": {
+        "co_authors": [
+            "Osman Hegazy",
+            "Mustafa Abdul Salam"
+        ],
+        "num_pubs": 1
+    },
+    "Mustafa Abdul Salam": {
+        "co_authors": [
+            "Osman Hegazy",
+            "Omar S. Soliman"
+        ],
+        "num_pubs": 1
+    },
+    "Christine Antonsen": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Mathys Rennela": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Siddharth Chatterjee": {
+        "co_authors": [
+            "Arunava Sen"
+        ],
+        "num_pubs": 1
+    },
+    "Arunava Sen": {
+        "co_authors": [
+            "Siddharth Chatterjee"
+        ],
+        "num_pubs": 1
+    },
+    "Andrea Asperti": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Christopher A. Birster": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Stefan Boettcher": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Florian Frohn": {
+        "co_authors": [
+            "J\u00fcrgen Giesl"
+        ],
+        "num_pubs": 1
+    },
+    "J\u00fcrgen Giesl": {
+        "co_authors": [
+            "Florian Frohn"
+        ],
+        "num_pubs": 1
+    },
+    "Jeremy Avigad": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Burcu Sayin": {
+        "co_authors": [
+            "Jie Yang",
+            "Andrea Passerini",
+            "Fabio Casati"
+        ],
+        "num_pubs": 1
+    },
+    "Jie Yang": {
+        "co_authors": [
+            "Burcu Sayin",
+            "Andrea Passerini",
+            "Fabio Casati"
+        ],
+        "num_pubs": 1
+    },
+    "Andrea Passerini": {
+        "co_authors": [
+            "Burcu Sayin",
+            "Jie Yang",
+            "Fabio Casati"
+        ],
+        "num_pubs": 1
+    },
+    "Fabio Casati": {
+        "co_authors": [
+            "Burcu Sayin",
+            "Jie Yang",
+            "Andrea Passerini"
+        ],
+        "num_pubs": 1
+    },
+    "Leonid A. Levin": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Barry C. Sanders": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Maciej Pir\u00f3g": {
+        "co_authors": [
+            "Jeremy Gibbons"
+        ],
+        "num_pubs": 1
+    },
+    "Jeremy Gibbons": {
+        "co_authors": [
+            "Maciej Pir\u00f3g"
+        ],
+        "num_pubs": 1
+    },
+    "Aaron Karper": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Lillian Lee": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Ciesielski Mariusz": {
+        "co_authors": [
+            "Leszczynski Jacek"
+        ],
+        "num_pubs": 1
+    },
+    "Pierre Clairambault": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Petter Kristian K\u00f8ber": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Marcelo Fiore": {
+        "co_authors": [
+            "Chung-Kil Hur"
+        ],
+        "num_pubs": 1
+    },
+    "Chung-Kil Hur": {
+        "co_authors": [
+            "Marcelo Fiore"
+        ],
+        "num_pubs": 1
+    },
+    "Xinguo Ren": {
+        "co_authors": [
+            "Patrick Rinke",
+            "Christian Joas",
+            "Matthias Scheffler"
+        ],
+        "num_pubs": 1
+    },
+    "Christian Joas": {
+        "co_authors": [
+            "Xinguo Ren",
+            "Patrick Rinke",
+            "Matthias Scheffler"
+        ],
+        "num_pubs": 1
+    },
+    "Matthias Scheffler": {
+        "co_authors": [
+            "Christian Joas",
+            "Claudia Draxl",
+            "Patrick Rinke",
+            "Xinguo Ren"
+        ],
+        "num_pubs": 2
+    },
+    "Roger Villemaire": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Bob Coecke": {
+        "co_authors": [
+            "Aleks Kissinger"
+        ],
+        "num_pubs": 1
+    },
+    "Aleks Kissinger": {
+        "co_authors": [
+            "Bob Coecke"
+        ],
+        "num_pubs": 1
+    },
+    "Joseph Paul Cohen": {
+        "co_authors": [
+            "Carla Aravena",
+            "Wei Ding"
+        ],
+        "num_pubs": 1
+    },
+    "Carla Aravena": {
+        "co_authors": [
+            "Joseph Paul Cohen",
+            "Wei Ding"
+        ],
+        "num_pubs": 1
+    },
+    "Wei Ding": {
+        "co_authors": [
+            "Joseph Paul Cohen",
+            "Carla Aravena"
+        ],
+        "num_pubs": 1
+    },
+    "Moreno Marzolla": {
+        "co_authors": [
+            "Raffaela Mirandola"
+        ],
+        "num_pubs": 1
+    },
+    "Raffaela Mirandola": {
+        "co_authors": [
+            "Moreno Marzolla"
+        ],
+        "num_pubs": 1
+    },
+    "J\u00e9r\u00f4me Lang": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Michael E. Cuffaro": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Aur\u00e9lie Breidenbach": {
+        "co_authors": [
+            "Caroline Mahlow",
+            "Andreas Schreiber"
+        ],
+        "num_pubs": 1
+    },
+    "Caroline Mahlow": {
+        "co_authors": [
+            "Aur\u00e9lie Breidenbach",
+            "Andreas Schreiber"
+        ],
+        "num_pubs": 1
+    },
+    "Andreas Schreiber": {
+        "co_authors": [
+            "Aur\u00e9lie Breidenbach",
+            "Caroline Mahlow"
+        ],
+        "num_pubs": 1
+    },
+    "J. M. Landsberg": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Beno\u00eet Valiron": {
+        "co_authors": [
+            "Shane Mansfield",
+            "Pablo Arrighi",
+            "Prakash Panangaden"
+        ],
+        "num_pubs": 1
+    },
+    "Shane Mansfield": {
+        "co_authors": [
+            "Beno\u00eet Valiron",
+            "Pablo Arrighi",
+            "Prakash Panangaden"
+        ],
+        "num_pubs": 1
+    },
+    "Pablo Arrighi": {
+        "co_authors": [
+            "Beno\u00eet Valiron",
+            "Shane Mansfield",
+            "Prakash Panangaden"
+        ],
+        "num_pubs": 1
+    },
+    "Prakash Panangaden": {
+        "co_authors": [
+            "Beno\u00eet Valiron",
+            "Shane Mansfield",
+            "Pablo Arrighi"
+        ],
+        "num_pubs": 1
+    },
+    "Yixin Cheng": {
+        "co_authors": [
+            "Bernardo Pereira Nunes"
+        ],
+        "num_pubs": 1
+    },
+    "Bernardo Pereira Nunes": {
+        "co_authors": [
+            "Yixin Cheng"
+        ],
+        "num_pubs": 1
+    },
+    "Nat\u00e1lia Dal Pizzol": {
+        "co_authors": [
+            "Eduardo Dos Santos Barbosa",
+            "Soraia Raupp Musse"
+        ],
+        "num_pubs": 1
+    },
+    "Eduardo Dos Santos Barbosa": {
+        "co_authors": [
+            "Nat\u00e1lia Dal Pizzol",
+            "Soraia Raupp Musse"
+        ],
+        "num_pubs": 1
+    },
+    "Soraia Raupp Musse": {
+        "co_authors": [
+            "Nat\u00e1lia Dal Pizzol",
+            "Eduardo Dos Santos Barbosa"
+        ],
+        "num_pubs": 1
+    },
+    "Michael Kampouridis": {
+        "co_authors": [
+            "Panagiotis Kanellopoulos",
+            "Maria Kyropoulou",
+            "Themistoklis Melissourgos",
+            "Alexandros A. Voudouris"
+        ],
+        "num_pubs": 1
+    },
+    "Panagiotis Kanellopoulos": {
+        "co_authors": [
+            "Michael Kampouridis",
+            "Maria Kyropoulou",
+            "Themistoklis Melissourgos",
+            "Alexandros A. Voudouris"
+        ],
+        "num_pubs": 1
+    },
+    "Maria Kyropoulou": {
+        "co_authors": [
+            "Michael Kampouridis",
+            "Panagiotis Kanellopoulos",
+            "Themistoklis Melissourgos",
+            "Alexandros A. Voudouris"
+        ],
+        "num_pubs": 1
+    },
+    "Themistoklis Melissourgos": {
+        "co_authors": [
+            "Michael Kampouridis",
+            "Panagiotis Kanellopoulos",
+            "Maria Kyropoulou",
+            "Alexandros A. Voudouris"
+        ],
+        "num_pubs": 1
+    },
+    "Alexandros A. Voudouris": {
+        "co_authors": [
+            "Michael Kampouridis",
+            "Panagiotis Kanellopoulos",
+            "Maria Kyropoulou",
+            "Themistoklis Melissourgos"
+        ],
+        "num_pubs": 1
+    },
+    "S. Y. Savrasov": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "M. Reynolds": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Bonifac Donat": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Louis Mello": {
+        "co_authors": [],
+        "num_pubs": 2
+    },
+    "L. N. Vaserstein": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Sergey Gubin": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Harumichi Nishimura": {
+        "co_authors": [
+            "Tomoyuki Yamakami"
+        ],
+        "num_pubs": 1
+    },
+    "Tomoyuki Yamakami": {
+        "co_authors": [
+            "Harumichi Nishimura"
+        ],
+        "num_pubs": 1
+    },
+    "N. David Mermin": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Jeff Bezanson": {
+        "co_authors": [
+            "Alan Edelman",
+            "Stefan Karpinski",
+            "Viral B. Shah"
+        ],
+        "num_pubs": 1
+    },
+    "Alan Edelman": {
+        "co_authors": [
+            "Jeff Bezanson",
+            "Stefan Karpinski",
+            "Viral B. Shah"
+        ],
+        "num_pubs": 1
+    },
+    "Stefan Karpinski": {
+        "co_authors": [
+            "Jeff Bezanson",
+            "Alan Edelman",
+            "Viral B. Shah"
+        ],
+        "num_pubs": 1
+    },
+    "Viral B. Shah": {
+        "co_authors": [
+            "Jeff Bezanson",
+            "Alan Edelman",
+            "Stefan Karpinski"
+        ],
+        "num_pubs": 1
+    },
+    "Peter V. Coveney": {
+        "co_authors": [
+            "Roger R. Highfield"
+        ],
+        "num_pubs": 1
+    },
+    "Roger R. Highfield": {
+        "co_authors": [
+            "Peter V. Coveney"
+        ],
+        "num_pubs": 1
+    },
+    "Daniel Weller": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Andrew J. Holbrook": {
+        "co_authors": [
+            "Akihiko Nishimura",
+            "Xiang Ji",
+            "Marc A. Suchard"
+        ],
+        "num_pubs": 1
+    },
+    "Akihiko Nishimura": {
+        "co_authors": [
+            "Andrew J. Holbrook",
+            "Xiang Ji",
+            "Marc A. Suchard"
+        ],
+        "num_pubs": 1
+    },
+    "Xiang Ji": {
+        "co_authors": [
+            "Andrew J. Holbrook",
+            "Akihiko Nishimura",
+            "Marc A. Suchard"
+        ],
+        "num_pubs": 1
+    },
+    "Marc A. Suchard": {
+        "co_authors": [
+            "Andrew J. Holbrook",
+            "Akihiko Nishimura",
+            "Xiang Ji"
+        ],
+        "num_pubs": 1
+    },
+    "Jianfeng Zhan": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Samaa Elnagar": {
+        "co_authors": [
+            "Manoj A. Thomas",
+            "Kweku-Muata Osei-Bryson"
+        ],
+        "num_pubs": 1
+    },
+    "Manoj A. Thomas": {
+        "co_authors": [
+            "Samaa Elnagar",
+            "Kweku-Muata Osei-Bryson"
+        ],
+        "num_pubs": 1
+    },
+    "Kweku-Muata Osei-Bryson": {
+        "co_authors": [
+            "Samaa Elnagar",
+            "Manoj A. Thomas"
+        ],
+        "num_pubs": 1
+    },
+    "S. Bertocco": {
+        "co_authors": [
+            "D. Goz",
+            "S. A. Russo",
+            "M. Moliaro",
+            "G. Taffoni"
+        ],
+        "num_pubs": 1
+    },
+    "D. Goz": {
+        "co_authors": [
+            "S. Bertocco",
+            "S. A. Russo",
+            "M. Moliaro",
+            "G. Taffoni"
+        ],
+        "num_pubs": 1
+    },
+    "S. A. Russo": {
+        "co_authors": [
+            "S. Bertocco",
+            "D. Goz",
+            "M. Moliaro",
+            "G. Taffoni"
+        ],
+        "num_pubs": 1
+    },
+    "M. Moliaro": {
+        "co_authors": [
+            "S. Bertocco",
+            "D. Goz",
+            "S. A. Russo",
+            "G. Taffoni"
+        ],
+        "num_pubs": 1
+    },
+    "G. Taffoni": {
+        "co_authors": [
+            "S. Bertocco",
+            "D. Goz",
+            "S. A. Russo",
+            "M. Moliaro"
+        ],
+        "num_pubs": 1
+    },
+    "T W Kelsey": {
+        "co_authors": [
+            "W H B Wallace"
+        ],
+        "num_pubs": 1
+    },
+    "W H B Wallace": {
+        "co_authors": [
+            "T W Kelsey"
+        ],
+        "num_pubs": 1
+    },
+    "Julia Katherine Haines": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Paulo Alencar": {
+        "co_authors": [
+            "Donald Cowan",
+            "Doug Mulholland"
+        ],
+        "num_pubs": 1
+    },
+    "Donald Cowan": {
+        "co_authors": [
+            "Paulo Alencar",
+            "Doug Mulholland"
+        ],
+        "num_pubs": 1
+    },
+    "Doug Mulholland": {
+        "co_authors": [
+            "Paulo Alencar",
+            "Donald Cowan"
+        ],
+        "num_pubs": 1
+    },
+    "Ruonan Wang": {
+        "co_authors": [
+            "Andreas Wicenec",
+            "Tao An"
+        ],
+        "num_pubs": 1
+    },
+    "Andreas Wicenec": {
+        "co_authors": [
+            "Ruonan Wang",
+            "Tao An"
+        ],
+        "num_pubs": 1
+    },
+    "Tao An": {
+        "co_authors": [
+            "Ruonan Wang",
+            "Andreas Wicenec"
+        ],
+        "num_pubs": 1
+    },
+    "Doug Reitz": {
+        "co_authors": [
+            "Estela Blaisten-Barojas"
+        ],
+        "num_pubs": 1
+    },
+    "Estela Blaisten-Barojas": {
+        "co_authors": [
+            "Doug Reitz"
+        ],
+        "num_pubs": 1
+    },
+    "Thomas Vogel": {
+        "co_authors": [
+            "Stephan Druskat",
+            "Markus Scheidgen",
+            "Claudia Draxl",
+            "Lars Grunske"
+        ],
+        "num_pubs": 1
+    },
+    "Stephan Druskat": {
+        "co_authors": [
+            "Thomas Vogel",
+            "Markus Scheidgen",
+            "Claudia Draxl",
+            "Lars Grunske"
+        ],
+        "num_pubs": 1
+    },
+    "Markus Scheidgen": {
+        "co_authors": [
+            "Thomas Vogel",
+            "Stephan Druskat",
+            "Claudia Draxl",
+            "Lars Grunske"
+        ],
+        "num_pubs": 1
+    },
+    "Lars Grunske": {
+        "co_authors": [
+            "Thomas Vogel",
+            "Stephan Druskat",
+            "Markus Scheidgen",
+            "Claudia Draxl"
+        ],
+        "num_pubs": 1
+    },
+    "Richard D. Gill": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Wenwen Li": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Vincenzo De Maio": {
+        "co_authors": [
+            "Meerzhan Kanatbekova",
+            "Felix Zilk",
+            "Nicolai Friis",
+            "Tobias Guggemos",
+            "Ivona Brandic"
+        ],
+        "num_pubs": 1
+    },
+    "Meerzhan Kanatbekova": {
+        "co_authors": [
+            "Vincenzo De Maio",
+            "Felix Zilk",
+            "Nicolai Friis",
+            "Tobias Guggemos",
+            "Ivona Brandic"
+        ],
+        "num_pubs": 1
+    },
+    "Felix Zilk": {
+        "co_authors": [
+            "Vincenzo De Maio",
+            "Meerzhan Kanatbekova",
+            "Nicolai Friis",
+            "Tobias Guggemos",
+            "Ivona Brandic"
+        ],
+        "num_pubs": 1
+    },
+    "Nicolai Friis": {
+        "co_authors": [
+            "Vincenzo De Maio",
+            "Meerzhan Kanatbekova",
+            "Felix Zilk",
+            "Tobias Guggemos",
+            "Ivona Brandic"
+        ],
+        "num_pubs": 1
+    },
+    "Tobias Guggemos": {
+        "co_authors": [
+            "Vincenzo De Maio",
+            "Meerzhan Kanatbekova",
+            "Felix Zilk",
+            "Nicolai Friis",
+            "Ivona Brandic"
+        ],
+        "num_pubs": 1
+    },
+    "Ivona Brandic": {
+        "co_authors": [
+            "Vincenzo De Maio",
+            "Meerzhan Kanatbekova",
+            "Felix Zilk",
+            "Nicolai Friis",
+            "Tobias Guggemos"
+        ],
+        "num_pubs": 1
+    },
+    "Marcelo Ponce": {
+        "co_authors": [
+            "Erik Spence",
+            "Daniel Gruner",
+            "Ramses van Zon"
+        ],
+        "num_pubs": 1
+    },
+    "Erik Spence": {
+        "co_authors": [
+            "Marcelo Ponce",
+            "Daniel Gruner",
+            "Ramses van Zon"
+        ],
+        "num_pubs": 1
+    },
+    "Daniel Gruner": {
+        "co_authors": [
+            "Marcelo Ponce",
+            "Erik Spence",
+            "Ramses van Zon"
+        ],
+        "num_pubs": 1
+    },
+    "Ramses van Zon": {
+        "co_authors": [
+            "Marcelo Ponce",
+            "Erik Spence",
+            "Daniel Gruner"
+        ],
+        "num_pubs": 1
+    },
+    "Charles Sutton": {
+        "co_authors": [
+            "Linan Gong"
+        ],
+        "num_pubs": 1
+    },
+    "Linan Gong": {
+        "co_authors": [
+            "Charles Sutton"
+        ],
+        "num_pubs": 1
+    },
+    "Nidhi Seethapathi": {
+        "co_authors": [
+            "Shaofei Wang",
+            "Rachit Saluja",
+            "Gunnar Blohm",
+            "Konrad P. Kording"
+        ],
+        "num_pubs": 1
+    },
+    "Shaofei Wang": {
+        "co_authors": [
+            "Nidhi Seethapathi",
+            "Rachit Saluja",
+            "Gunnar Blohm",
+            "Konrad P. Kording"
+        ],
+        "num_pubs": 1
+    },
+    "Rachit Saluja": {
+        "co_authors": [
+            "Nidhi Seethapathi",
+            "Shaofei Wang",
+            "Gunnar Blohm",
+            "Konrad P. Kording"
+        ],
+        "num_pubs": 1
+    },
+    "Gunnar Blohm": {
+        "co_authors": [
+            "Nidhi Seethapathi",
+            "Shaofei Wang",
+            "Rachit Saluja",
+            "Konrad P. Kording"
+        ],
+        "num_pubs": 1
+    },
+    "Konrad P. Kording": {
+        "co_authors": [
+            "Nidhi Seethapathi",
+            "Shaofei Wang",
+            "Rachit Saluja",
+            "Gunnar Blohm"
+        ],
+        "num_pubs": 1
+    },
+    "Mojtaba Heidarysafa": {
+        "co_authors": [
+            "Kamran Kowsari",
+            "Masoud Bashiri",
+            "Donald E. Brown"
+        ],
+        "num_pubs": 1
+    },
+    "Kamran Kowsari": {
+        "co_authors": [
+            "Mojtaba Heidarysafa",
+            "Masoud Bashiri",
+            "Donald E. Brown"
+        ],
+        "num_pubs": 1
+    },
+    "Masoud Bashiri": {
+        "co_authors": [
+            "Mojtaba Heidarysafa",
+            "Kamran Kowsari",
+            "Donald E. Brown"
+        ],
+        "num_pubs": 1
+    },
+    "Donald E. Brown": {
+        "co_authors": [
+            "Mojtaba Heidarysafa",
+            "Kamran Kowsari",
+            "Masoud Bashiri"
+        ],
+        "num_pubs": 1
+    },
+    "Dale Miller": {
+        "co_authors": [
+            "Zolt\u00e1n \u00c9sik"
+        ],
+        "num_pubs": 1
+    },
+    "Zolt\u00e1n \u00c9sik": {
+        "co_authors": [
+            "Dale Miller"
+        ],
+        "num_pubs": 1
+    },
+    "Asim Ghosh": {
+        "co_authors": [
+            "Sudip Mukherjee"
+        ],
+        "num_pubs": 1
+    },
+    "Sudip Mukherjee": {
+        "co_authors": [
+            "Asim Ghosh"
+        ],
+        "num_pubs": 1
+    },
+    "Andrea Turrini": {
+        "co_authors": [
+            "Holger Hermanns"
+        ],
+        "num_pubs": 1
+    },
+    "Holger Hermanns": {
+        "co_authors": [
+            "Andrea Turrini"
+        ],
+        "num_pubs": 1
+    },
+    "Amy Voss Farris": {
+        "co_authors": [
+            "Amanda Catherine Dickes",
+            "Pratim Sengupta"
+        ],
+        "num_pubs": 1
+    },
+    "Amanda Catherine Dickes": {
+        "co_authors": [
+            "Amy Voss Farris",
+            "Pratim Sengupta"
+        ],
+        "num_pubs": 1
+    },
+    "Pratim Sengupta": {
+        "co_authors": [
+            "Amy Voss Farris",
+            "Amanda Catherine Dickes"
+        ],
+        "num_pubs": 1
+    },
+    "David Baelde": {
+        "co_authors": [
+            "Arnaud Carayol"
+        ],
+        "num_pubs": 1
+    },
+    "Nathan Bowler": {
+        "co_authors": [
+            "Sergey Goncharov",
+            "Paul Blain Levy",
+            "Lutz Schr\u00f6der"
+        ],
+        "num_pubs": 1
+    },
+    "Sergey Goncharov": {
+        "co_authors": [
+            "Nathan Bowler",
+            "Paul Blain Levy",
+            "Lutz Schr\u00f6der"
+        ],
+        "num_pubs": 1
+    },
+    "Paul Blain Levy": {
+        "co_authors": [
+            "Nathan Bowler",
+            "Sergey Goncharov",
+            "Lutz Schr\u00f6der"
+        ],
+        "num_pubs": 1
+    },
+    "Lutz Schr\u00f6der": {
+        "co_authors": [
+            "Nathan Bowler",
+            "Sergey Goncharov",
+            "Paul Blain Levy"
+        ],
+        "num_pubs": 1
+    },
+    "Tiffany J. Callahan": {
+        "co_authors": [
+            "Harrison Pielke-Lombardo",
+            "Ignacio J. Tripodi",
+            "Lawrence E. Hunter"
+        ],
+        "num_pubs": 1
+    },
+    "Harrison Pielke-Lombardo": {
+        "co_authors": [
+            "Tiffany J. Callahan",
+            "Ignacio J. Tripodi",
+            "Lawrence E. Hunter"
+        ],
+        "num_pubs": 1
+    },
+    "Ignacio J. Tripodi": {
+        "co_authors": [
+            "Tiffany J. Callahan",
+            "Harrison Pielke-Lombardo",
+            "Lawrence E. Hunter"
+        ],
+        "num_pubs": 1
+    },
+    "Lawrence E. Hunter": {
+        "co_authors": [
+            "Tiffany J. Callahan",
+            "Harrison Pielke-Lombardo",
+            "Ignacio J. Tripodi"
+        ],
+        "num_pubs": 1
+    },
+    "Jens Aagaard": {
+        "co_authors": [
+            "Hans H\u00fcttel",
+            "Mathias Jakobsen",
+            "Mikkel Kettunen"
+        ],
+        "num_pubs": 1
+    },
+    "Hans H\u00fcttel": {
+        "co_authors": [
+            "Jens Aagaard",
+            "Mathias Jakobsen",
+            "Mikkel Kettunen"
+        ],
+        "num_pubs": 1
+    },
+    "Mathias Jakobsen": {
+        "co_authors": [
+            "Jens Aagaard",
+            "Hans H\u00fcttel",
+            "Mikkel Kettunen"
+        ],
+        "num_pubs": 1
+    },
+    "Mikkel Kettunen": {
+        "co_authors": [
+            "Jens Aagaard",
+            "Hans H\u00fcttel",
+            "Mathias Jakobsen"
+        ],
+        "num_pubs": 1
+    },
+    "Yuichi Komorida": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Elise Buckley": {
+        "co_authors": [
+            "Joseph D. Monaco",
+            "Kevin M. Schultz",
+            "Robert Chalmers",
+            "Armin Hadzic",
+            "Kechen Zhang",
+            "Grace M. Hwang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "Joseph D. Monaco": {
+        "co_authors": [
+            "Elise Buckley",
+            "Kevin M. Schultz",
+            "Robert Chalmers",
+            "Armin Hadzic",
+            "Kechen Zhang",
+            "Grace M. Hwang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "Kevin M. Schultz": {
+        "co_authors": [
+            "Elise Buckley",
+            "Joseph D. Monaco",
+            "Robert Chalmers",
+            "Armin Hadzic",
+            "Kechen Zhang",
+            "Grace M. Hwang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "Robert Chalmers": {
+        "co_authors": [
+            "Elise Buckley",
+            "Joseph D. Monaco",
+            "Kevin M. Schultz",
+            "Armin Hadzic",
+            "Kechen Zhang",
+            "Grace M. Hwang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "Armin Hadzic": {
+        "co_authors": [
+            "Elise Buckley",
+            "Joseph D. Monaco",
+            "Kevin M. Schultz",
+            "Robert Chalmers",
+            "Kechen Zhang",
+            "Grace M. Hwang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "Kechen Zhang": {
+        "co_authors": [
+            "Elise Buckley",
+            "Joseph D. Monaco",
+            "Kevin M. Schultz",
+            "Robert Chalmers",
+            "Armin Hadzic",
+            "Grace M. Hwang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "Grace M. Hwang": {
+        "co_authors": [
+            "Elise Buckley",
+            "Joseph D. Monaco",
+            "Kevin M. Schultz",
+            "Robert Chalmers",
+            "Armin Hadzic",
+            "Kechen Zhang",
+            "M. Dwight Carr"
+        ],
+        "num_pubs": 1
+    },
+    "M. Dwight Carr": {
+        "co_authors": [
+            "Elise Buckley",
+            "Joseph D. Monaco",
+            "Kevin M. Schultz",
+            "Robert Chalmers",
+            "Armin Hadzic",
+            "Kechen Zhang",
+            "Grace M. Hwang"
+        ],
+        "num_pubs": 1
+    },
+    "Chennakesava Kadapa": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Reed Milewicz": {
+        "co_authors": [
+            "Miranda Mundt"
+        ],
+        "num_pubs": 1
+    },
+    "Miranda Mundt": {
+        "co_authors": [
+            "Reed Milewicz"
+        ],
+        "num_pubs": 1
+    },
+    "Sachita Nishal": {
+        "co_authors": [
+            "Jasmine Sinchai",
+            "Nicholas Diakopoulos"
+        ],
+        "num_pubs": 1
+    },
+    "Jasmine Sinchai": {
+        "co_authors": [
+            "Sachita Nishal",
+            "Nicholas Diakopoulos"
+        ],
+        "num_pubs": 1
+    },
+    "Nicholas Diakopoulos": {
+        "co_authors": [
+            "Sachita Nishal",
+            "Jasmine Sinchai"
+        ],
+        "num_pubs": 1
+    },
+    "Andrew Gelman": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Jennifer Bryan": {
+        "co_authors": [
+            "Hadley Wickham"
+        ],
+        "num_pubs": 1
+    },
+    "Hadley Wickham": {
+        "co_authors": [
+            "Jennifer Bryan"
+        ],
+        "num_pubs": 1
+    },
+    "Ojas Parekh": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "B. G. Sidharth": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Khristo N. Boyadzhiev": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Nadir Jeevanjee": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Rodrigo Costas": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Masud Mansuripur": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Hora\u0163iu Cheval": {
+        "co_authors": [
+            "Lauren\u0163iu Leu\u015ftean",
+            "Andrei Sipo\u015f"
+        ],
+        "num_pubs": 1
+    },
+    "Lauren\u0163iu Leu\u015ftean": {
+        "co_authors": [
+            "Hora\u0163iu Cheval",
+            "Andrei Sipo\u015f"
+        ],
+        "num_pubs": 1
+    },
+    "Andrei Sipo\u015f": {
+        "co_authors": [
+            "Hora\u0163iu Cheval",
+            "Lauren\u0163iu Leu\u015ftean"
+        ],
+        "num_pubs": 1
+    },
+    "Vladimir B. Teif": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Roman Lukyanenko": {
+        "co_authors": [
+            "Andrea Wiggins",
+            "Holly K. Rosser"
+        ],
+        "num_pubs": 1
+    },
+    "Andrea Wiggins": {
+        "co_authors": [
+            "Roman Lukyanenko",
+            "Holly K. Rosser"
+        ],
+        "num_pubs": 1
+    },
+    "Holly K. Rosser": {
+        "co_authors": [
+            "Roman Lukyanenko",
+            "Andrea Wiggins"
+        ],
+        "num_pubs": 1
+    },
+    "Mike Thelwall": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Masaki Nakanishi": {
+        "co_authors": [
+            "Kamil Khadiev",
+            "Kri\u0161j\u0101nis Pr\u016bsis",
+            "Jevg\u0113nijs Vihrovs",
+            "Abuzer Yakary\u0131lmaz"
+        ],
+        "num_pubs": 1
+    },
+    "Kamil Khadiev": {
+        "co_authors": [
+            "Masaki Nakanishi",
+            "Kri\u0161j\u0101nis Pr\u016bsis",
+            "Jevg\u0113nijs Vihrovs",
+            "Abuzer Yakary\u0131lmaz"
+        ],
+        "num_pubs": 1
+    },
+    "Kri\u0161j\u0101nis Pr\u016bsis": {
+        "co_authors": [
+            "Masaki Nakanishi",
+            "Kamil Khadiev",
+            "Jevg\u0113nijs Vihrovs",
+            "Abuzer Yakary\u0131lmaz"
+        ],
+        "num_pubs": 1
+    },
+    "Jevg\u0113nijs Vihrovs": {
+        "co_authors": [
+            "Masaki Nakanishi",
+            "Kamil Khadiev",
+            "Kri\u0161j\u0101nis Pr\u016bsis",
+            "Abuzer Yakary\u0131lmaz"
+        ],
+        "num_pubs": 1
+    },
+    "Abuzer Yakary\u0131lmaz": {
+        "co_authors": [
+            "Masaki Nakanishi",
+            "Kamil Khadiev",
+            "Kri\u0161j\u0101nis Pr\u016bsis",
+            "Jevg\u0113nijs Vihrovs"
+        ],
+        "num_pubs": 1
+    },
+    "E. A. Huerta": {
+        "co_authors": [
+            "Roland Haas",
+            "Shantenu Jha",
+            "Mark Neubauer",
+            "Daniel S. Katz"
+        ],
+        "num_pubs": 1
+    },
+    "Roland Haas": {
+        "co_authors": [
+            "E. A. Huerta",
+            "Shantenu Jha",
+            "Mark Neubauer",
+            "Daniel S. Katz"
+        ],
+        "num_pubs": 1
+    },
+    "Shantenu Jha": {
+        "co_authors": [
+            "E. A. Huerta",
+            "Roland Haas",
+            "Mark Neubauer",
+            "Daniel S. Katz"
+        ],
+        "num_pubs": 1
+    },
+    "Mark Neubauer": {
+        "co_authors": [
+            "E. A. Huerta",
+            "Roland Haas",
+            "Shantenu Jha",
+            "Daniel S. Katz"
+        ],
+        "num_pubs": 1
+    },
+    "Daniel S. Katz": {
+        "co_authors": [
+            "E. A. Huerta",
+            "Roland Haas",
+            "Shantenu Jha",
+            "Mark Neubauer"
+        ],
+        "num_pubs": 1
+    },
+    "Mark Braverman": {
+        "co_authors": [
+            "Stephen Cook"
+        ],
+        "num_pubs": 1
+    },
+    "Stephen Cook": {
+        "co_authors": [
+            "Mark Braverman"
+        ],
+        "num_pubs": 1
+    },
+    "Lu-Ming Duan": {
+        "co_authors": [
+            "Guang-Can Guo"
+        ],
+        "num_pubs": 1
+    },
+    "Guang-Can Guo": {
+        "co_authors": [
+            "Lu-Ming Duan"
+        ],
+        "num_pubs": 1
+    },
+    "Klaus Sutner": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Stefano Guerrini": {
+        "co_authors": [
+            "Simone Martini",
+            "Andrea Masini"
+        ],
+        "num_pubs": 1
+    },
+    "Simone Martini": {
+        "co_authors": [
+            "Stefano Guerrini",
+            "Andrea Masini"
+        ],
+        "num_pubs": 1
+    },
+    "Andrea Masini": {
+        "co_authors": [
+            "Stefano Guerrini",
+            "Simone Martini"
+        ],
+        "num_pubs": 1
+    },
+    "Rasoul Ramezanian": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Slawomir Lasota": {
+        "co_authors": [
+            "David Nowak",
+            "Yu Zhang"
+        ],
+        "num_pubs": 1
+    },
+    "David Nowak": {
+        "co_authors": [
+            "Slawomir Lasota",
+            "Yu Zhang"
+        ],
+        "num_pubs": 1
+    },
+    "Yu Zhang": {
+        "co_authors": [
+            "Slawomir Lasota",
+            "David Nowak"
+        ],
+        "num_pubs": 1
+    },
+    "Benjamin Adams": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "\u00c1lvaro L\u00f3pez Garc\u00eda": {
+        "co_authors": [
+            "Enol Fern\u00e1ndez-del-Castillo",
+            "Pablo Orviz Fern\u00e1ndez",
+            "Isabel Campos Plasencia",
+            "Jes\u00fas Marco de Lucas"
+        ],
+        "num_pubs": 1
+    },
+    "Enol Fern\u00e1ndez-del-Castillo": {
+        "co_authors": [
+            "\u00c1lvaro L\u00f3pez Garc\u00eda",
+            "Pablo Orviz Fern\u00e1ndez",
+            "Isabel Campos Plasencia",
+            "Jes\u00fas Marco de Lucas"
+        ],
+        "num_pubs": 1
+    },
+    "Pablo Orviz Fern\u00e1ndez": {
+        "co_authors": [
+            "\u00c1lvaro L\u00f3pez Garc\u00eda",
+            "Enol Fern\u00e1ndez-del-Castillo",
+            "Isabel Campos Plasencia",
+            "Jes\u00fas Marco de Lucas"
+        ],
+        "num_pubs": 1
+    },
+    "Isabel Campos Plasencia": {
+        "co_authors": [
+            "\u00c1lvaro L\u00f3pez Garc\u00eda",
+            "Enol Fern\u00e1ndez-del-Castillo",
+            "Pablo Orviz Fern\u00e1ndez",
+            "Jes\u00fas Marco de Lucas"
+        ],
+        "num_pubs": 1
+    },
+    "Jes\u00fas Marco de Lucas": {
+        "co_authors": [
+            "\u00c1lvaro L\u00f3pez Garc\u00eda",
+            "Enol Fern\u00e1ndez-del-Castillo",
+            "Pablo Orviz Fern\u00e1ndez",
+            "Isabel Campos Plasencia"
+        ],
+        "num_pubs": 1
+    },
+    "Ghazal Kalhor": {
+        "co_authors": [
+            "Behnam Bahrak"
+        ],
+        "num_pubs": 1
+    },
+    "Behnam Bahrak": {
+        "co_authors": [
+            "Ghazal Kalhor"
+        ],
+        "num_pubs": 1
+    },
+    "Daniele de Rigo": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Mine \u00c7etinkaya-Rundel": {
+        "co_authors": [
+            "Victoria Ellison"
+        ],
+        "num_pubs": 1
+    },
+    "Victoria Ellison": {
+        "co_authors": [
+            "Mine \u00c7etinkaya-Rundel"
+        ],
+        "num_pubs": 1
+    },
+    "Felipe S. Abrah\u00e3o": {
+        "co_authors": [
+            "Klaus Wehmuth",
+            "Artur Ziviani"
+        ],
+        "num_pubs": 1
+    },
+    "Klaus Wehmuth": {
+        "co_authors": [
+            "Felipe S. Abrah\u00e3o",
+            "Artur Ziviani"
+        ],
+        "num_pubs": 1
+    },
+    "Artur Ziviani": {
+        "co_authors": [
+            "Felipe S. Abrah\u00e3o",
+            "Klaus Wehmuth"
+        ],
+        "num_pubs": 1
+    },
+    "Liubov Tupikina": {
+        "co_authors": [
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Frank Schlosser": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Vadim Voskresenskii": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Katharina Kloppenborg": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Florence Lopez": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Albrecht Mariz": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Anna Mogilevskaja",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Anna Mogilevskaja": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Muki Haklay",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Muki Haklay": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Bastian Greshake Tzovaras"
+        ],
+        "num_pubs": 1
+    },
+    "Bastian Greshake Tzovaras": {
+        "co_authors": [
+            "Liubov Tupikina",
+            "Frank Schlosser",
+            "Vadim Voskresenskii",
+            "Katharina Kloppenborg",
+            "Florence Lopez",
+            "Albrecht Mariz",
+            "Anna Mogilevskaja",
+            "Muki Haklay"
+        ],
+        "num_pubs": 1
+    },
+    "Shigeo Kawata": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Biao Wu": {
+        "co_authors": [
+            "Hanbo Chen",
+            "Zhikang Luo"
+        ],
+        "num_pubs": 1
+    },
+    "Hanbo Chen": {
+        "co_authors": [
+            "Biao Wu",
+            "Zhikang Luo"
+        ],
+        "num_pubs": 1
+    },
+    "Zhikang Luo": {
+        "co_authors": [
+            "Biao Wu",
+            "Hanbo Chen"
+        ],
+        "num_pubs": 1
+    },
+    "Alfredo Buttari": {
+        "co_authors": [
+            "Julien Langou",
+            "Jakub Kurzak",
+            "Jack Dongarra"
+        ],
+        "num_pubs": 1
+    },
+    "Julien Langou": {
+        "co_authors": [
+            "Alfredo Buttari",
+            "Jakub Kurzak",
+            "Jack Dongarra"
+        ],
+        "num_pubs": 1
+    },
+    "Jakub Kurzak": {
+        "co_authors": [
+            "Alfredo Buttari",
+            "Julien Langou",
+            "Jack Dongarra"
+        ],
+        "num_pubs": 1
+    },
+    "Jack Dongarra": {
+        "co_authors": [
+            "Alfredo Buttari",
+            "Julien Langou",
+            "Jakub Kurzak"
+        ],
+        "num_pubs": 1
+    },
+    "John Lawrence Nazareth": {
+        "co_authors": [],
+        "num_pubs": 1
+    },
+    "Marvin Wyrich": {
+        "co_authors": [
+            "Stefan Wagner"
+        ],
+        "num_pubs": 1
+    },
+    "Stefan Wagner": {
+        "co_authors": [
+            "Marvin Wyrich"
+        ],
+        "num_pubs": 1
+    },
+    "Toshiyuki Fukushige": {
+        "co_authors": [
+            "Piet Hut",
+            "Jun Makino"
+        ],
+        "num_pubs": 1
+    },
+    "Piet Hut": {
+        "co_authors": [
+            "Toshiyuki Fukushige",
+            "Jun Makino"
+        ],
+        "num_pubs": 1
+    },
+    "Jun Makino": {
+        "co_authors": [
+            "Toshiyuki Fukushige",
+            "Piet Hut"
+        ],
+        "num_pubs": 1
+    },
+    "Morten Heine S\u00f8rensen": {
+        "co_authors": [],
+        "num_pubs": 1
+    }
+}
